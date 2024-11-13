@@ -1,0 +1,130 @@
+text,label
+Y a-t-il des alertes de voyage pour le Brésil,travel_alert
+Existe-t-il des alertes de voyage pour le Japon,travel_alert
+Suis-je en sécurité pour voyager en Inde,travel_alert
+Y a-t-il des alertes de voyage pour l'Egypte,travel_alert
+Quelles sont les alertes de voyage actuelles pour la France,travel_alert
+Est-ce qu'il y a des alertes de voyage pour la Grèce,travel_alert
+Est-il sûr de voyager en Thaïlande en ce moment,travel_alert
+Y a-t-il des alertes de voyage concernant l'Espagne,travel_alert
+Suis-je en sécurité pour voyager en Italie,travel_alert
+Y a-t-il des alertes de voyage pour le Mexique,travel_alert
+Existe-t-il des alertes de voyage pour le Royaume-Uni,travel_alert
+Suis-je en sécurité pour voyager en Australie,travel_alert
+Quelles sont les alertes de voyage actuelles pour les Etats-Unis,travel_alert
+Est-ce qu'il y a des alertes de voyage pour le Pérou,travel_alert
+Est-il sûr de voyager en Turquie en ce moment,travel_alert
+Y a-t-il des alertes de voyage concernant le Canada,travel_alert
+Suis-je en sécurité pour voyager en Nouvelle-Zélande,travel_alert
+Y a-t-il des alertes de voyage pour l'Afrique du Sud,travel_alert
+Existe-t-il des alertes de voyage pour le Portugal,travel_alert
+Suis-je en sécurité pour voyager en Suisse,travel_alert
+Y a-t-il des alertes de voyage concernant l'Argentine,travel_alert
+Est-ce qu'il y a des alertes de voyage pour la Chine,travel_alert
+Est-il sûr de voyager en Belgique en ce moment,travel_alert
+Y a-t-il des alertes de voyage pour la Suède,travel_alert
+Suis-je en sécurité pour voyager au Maroc,travel_alert
+Quelles sont les alertes de voyage actuelles pour l'Islande,travel_alert
+Est-ce qu'il y a des alertes de voyage pour la Colombie,travel_alert
+Est-il sûr de voyager en Irlande en ce moment,travel_alert
+Y a-t-il des alertes de voyage concernant la Norvège,travel_alert
+Suis-je en sécurité pour voyager au Vietnam,travel_alert
+Y a-t-il des alertes de voyage pour Cuba,travel_alert
+Existe-t-il des alertes de voyage pour la Jamaïque,travel_alert
+Suis-je en sécurité pour voyager en Allemagne,travel_alert
+Y a-t-il des alertes de voyage concernant la Russie,travel_alert
+Est-ce qu'il y a des alertes de voyage pour la Grèce,travel_alert
+Est-il sûr de voyager en Nouvelle-Zélande en ce moment,travel_alert
+Y a-t-il des alertes de voyage concernant l'Indonésie,travel_alert
+Suis-je en sécurité pour voyager en Egypte,travel_alert
+Quelles sont les alertes de voyage actuelles pour l'Espagne,travel_alert
+Est-ce qu'il y a des alertes de voyage pour le Vietnam,travel_alert
+Est-il sûr de voyager en Thaïlande en ce moment,travel_alert
+Y a-t-il des alertes de voyage concernant le Maroc,travel_alert
+Je voudrais réserver une chambre d'hôtel à Paris pour le week-end prochain,book_hotel
+Pouvez-vous me trouver un hôtel pas cher à New York pour une nuit ?,book_hotel
+Je suis à la recherche d'un bon hôtel à Barcelone pour une semaine,book_hotel
+J'ai besoin d'une chambre d'hôtel pour deux personnes à Londres du 10 au 15 décembre,book_hotel
+Pouvez-vous me recommander un hôtel près de la plage à Miami ?,book_hotel
+Je cherche un hôtel avec vue sur la Tour Eiffel à Paris,book_hotel
+Est-ce que vous pouvez m'aider à réserver un hôtel dans le centre-ville de Rome ?,book_hotel
+Je voudrais réserver une chambre d'hôtel pour une nuit à Las Vegas,book_hotel
+Pouvez-vous me trouver un hôtel avec piscine à Sydney ?,book_hotel
+Je cherche un hôtel de luxe à Dubai pour mon voyage d'affaires,book_hotel
+Est-il possible de réserver un hôtel avec un spa à Bali ?,book_hotel
+Je voudrais réserver une chambre d'hôtel pour deux personnes à Tokyo,book_hotel
+Pouvez-vous me recommander un hôtel familial à Orlando ?,book_hotel
+Je cherche un hôtel avec petit-déjeuner inclus à Berlin,book_hotel
+Est-ce que vous pouvez m'aider à trouver un hôtel près de la gare à Amsterdam ?,book_hotel
+Je voudrais réserver un hôtel avec parking à San Francisco,book_hotel
+Pouvez-vous me trouver un hôtel bien situé à Hong Kong ?,book_hotel
+Je suis à la recherche d'un hôtel pas cher à Bangkok pour une semaine,book_hotel
+J'ai besoin d'une chambre d'hôtel pour trois personnes à Barcelone du 5 au 10 janvier,book_hotel
+Pouvez-vous me recommander un hôtel avec vue sur la mer à Rio de Janeiro ?,book_hotel
+Je cherche un hôtel près du parc Disneyland à Orlando,book_hotel
+Est-ce que vous pouvez m'aider à réserver un hôtel avec salle de sport à Singapour ?,book_hotel
+Je voudrais réserver une chambre d'hôtel pour une nuit à Sydney,book_hotel
+Pouvez-vous me trouver un hôtel avec restaurant à Paris ?,book_hotel
+Je suis à la recherche d'un hôtel de charme à Florence pour une semaine,book_hotel
+J'ai besoin d'une chambre d'hôtel pour deux adultes et deux enfants à Los Angeles du 20 au 25 février,book_hotel
+Pouvez-vous me recommander un hôtel avec wifi gratuit à New York ?,book_hotel
+Je cherche un hôtel près de la plage à Miami pour mon voyage de noces,book_hotel
+Est-ce que vous pouvez m'aider à réserver un hôtel dans le quartier historique de Prague ?,book_hotel
+Je voudrais réserver une chambre d'hôtel pour une nuit à Rome,book_hotel
+Pouvez-vous me trouver un hôtel avec vue sur le lac à Genève ?,book_hotel
+Je suis à la recherche d'un hôtel romantique à Venise pour mon anniversaire,book_hotel
+J'ai besoin d'une chambre d'hôtel pour une personne à Londres du lundi au vendredi,book_hotel
+Pouvez-vous me recommander un hôtel avec spa à Marrakech ?,book_hotel
+Je cherche un hôtel près du parc d'attractions à Orlando,book_hotel
+Est-ce que vous pouvez m'aider à réserver un hôtel avec navette aéroport à Cancun ?,book_hotel
+Je voudrais réserver une chambre d'hôtel avec balcon à Barcelone,book_hotel
+Pouvez-vous me trouver un hôtel bien situé à Tokyo ?,book_hotel
+Je suis à la recherche d'un hôtel pas cher à Bangkok pour mon voyage en solo,book_hotel
+J'ai besoin d'une chambre d'hôtel pour deux personnes à Rio de Janeiro du 5 au 10 mars,book_hotel
+Pouvez-vous me recommander un hôtel avec vue sur la plage à Honolulu ?,book_hotel
+Je cherche un hôtel près du quartier des affaires à Singapour,book_hotel
+Est-ce que vous pouvez m'aider à réserver un hôtel avec piscine à Cancun ?,book_hotel
+Je voudrais réserver une chambre d'hôtel pour une nuit à Amsterdam,book_hotel
+Je voudrais réserver un vol de Paris à Madrid,book_flight
+Est-il possible de réserver un vol aller-retour de New York à Los Angeles ?,book_flight
+Je cherche des vols de Sydney à Tokyo pour le mois de juillet,book_flight
+Pouvez-vous trouver des vols directs de Londres à Rome ?,book_flight
+Je souhaite réserver un vol de Miami à Cancun pour la semaine prochaine,book_flight
+Je voudrais savoir s'il y a des vols disponibles de Melbourne à Bali,book_flight
+Réservez un vol aller simple de Berlin à Athènes,book_flight
+Je recherche des vols de Vancouver à Toronto pour le mois d'août,book_flight
+Est-ce que vous pouvez me trouver des vols bon marché de San Francisco à Las Vegas ?,book_flight
+Je voudrais réserver un vol de Londres à New York pour le mois de septembre,book_flight
+Pouvez-vous me trouver un vol aller-retour de Madrid à Barcelone ?,book_flight
+Je cherche des vols directs de Sydney à Bali,book_flight
+Je souhaite réserver un vol de Paris à Rome pour le mois prochain,book_flight
+Je voudrais savoir s'il y a des vols disponibles de Tokyo à Séoul,book_flight
+Réservez un vol aller simple de New York à Miami,book_flight
+Je recherche des vols de Toronto à Vancouver pour le mois de décembre,book_flight
+Est-ce que vous pouvez me trouver des vols bon marché de Los Angeles à Las Vegas ?,book_flight
+Je voudrais réserver un vol de Rome à Paris pour le mois de janvier,book_flight
+Pouvez-vous me trouver un vol aller-retour de Barcelone à Madrid ?,book_flight
+Je cherche des vols directs de Bali à Sydney,book_flight
+Je souhaite réserver un vol de Athènes à Berlin,book_flight
+Je voudrais savoir s'il y a des vols disponibles de Séoul à Tokyo,book_flight
+Réservez un vol aller simple de Miami à New York,book_flight
+Je recherche des vols de Vancouver à Toronto pour le mois de mars,book_flight
+Est-ce que vous pouvez me trouver des vols bon marché de Las Vegas à Los Angeles ?,book_flight
+Je voudrais réserver un vol de Paris à Madrid pour le mois d'avril,book_flight
+Pouvez-vous me trouver un vol aller-retour de Madrid à Barcelone pour le mois de mai ?,book_flight
+Je cherche des vols directs de Sydney à Bali,book_flight
+Je souhaite réserver un vol de Paris à Rome pour le mois de juin,book_flight
+Je voudrais savoir s'il y a des vols disponibles de Tokyo à Séoul pour le mois de juillet,book_flight
+Réservez un vol aller simple de New York à Miami pour le mois d'août,book_flight
+Je recherche des vols de Toronto à Vancouver pour le mois de septembre,book_flight
+Est-ce que vous pouvez me trouver des vols bon marché de Los Angeles à Las Vegas pour le mois d'octobre ?,book_flight
+Je voudrais réserver un vol de Rome à Paris pour le mois de novembre,book_flight
+Pouvez-vous me trouver un vol aller-retour de Barcelone à Madrid pour le mois de décembre ?,book_flight
+Je cherche des vols directs de Bali à Sydney pour le mois de janvier,book_flight
+Je souhaite réserver un vol de Athènes à Berlin pour le mois de février,book_flight
+Je voudrais savoir s'il y a des vols disponibles de Séoul à Tokyo pour le mois de mars,book_flight
+Réservez un vol aller simple de Miami à New York pour le mois d'avril,book_flight
+Je recherche des vols de Vancouver à Toronto pour le mois de mai,book_flight
+Est-ce que vous pouvez me trouver des vols bon marché de Las Vegas à Los Angeles pour le mois de juin ?,book_flight
+Je voudrais réserver un vol de Paris à Madrid pour le mois de juillet,book_flight
+Pouvez-vous me trouver un vol aller-retour de Madrid à Barcelone pour le mois d'août ?,book_flight

@@ -1,0 +1,1572 @@
+text;label
+Pouvez-vous me dire comment dire «je ne parle pas beaucoup espagnol», en espagnol;translate
+Dites-moi comment dire: «C'est une belle matinée» en italien;translate
+Si j'étais japonais, comment dirais-je que je suis touriste;translate
+Comment dire «hôtel» en finnois;translate
+J'ai besoin que vous traduisiez la phrase, «nous y serons bientôt» en portugais;translate
+Veuillez me dire comment demander un taxi en français;translate
+Comment dire bonjour en anglais;translate
+La Corée du Nord a-t-elle des alertes de voyage que je devrais être conscientes;travel_alert
+Y a-t-il des alertes de voyage pour la Syrie;travel_alert
+Y a-t-il une alerte de voyage pour la Russie;travel_alert
+Est-il sûr de se rendre en Islande;travel_alert
+Parlez-moi des alertes de voyage émises pour l'Allemagne;travel_alert
+Y a-t-il des nouvelles sur le vol DL123;flight_status
+Quand allons-nous commencer à monter à bord de mon vol prévu;flight_status
+Quand mon vol décollera-t-il;flight_status
+Quand mon vol atterrira-t-il;flight_status
+quelle est la porte d'embarquement pour mon vol AF847;flight_status
+Quand vais-je arriver à destination;flight_status
+Localiser les bagages perdus de Flight America Airlines à O'Hare;lost_luggage
+Perte des bagages sur Flight America Airlines à O'Hare;lost_luggage
+Je pense que mes bagages ont été perdus;lost_luggage
+Mes bagages sont manquants, j'étais sur le vol Frontier AB123 depuis Seattle;lost_luggage
+Aide, j'ai perdu mes bagages;lost_luggage
+Savez-vous qui je devrais contacter car mes valises ne sont pas arrivées;lost_luggage
+À qui dois-je me plaindre que mes bagages n'arrivent pas à l'aéroport;lost_luggage
+Veuillez suggérer des activités touristiques amusantes à Tokyo;travel_suggestion
+Si je vais à Evans, que dois-je faire;travel_suggestion
+Quels sont les bons restaurants à Chicago;travel_suggestion
+où devrais-je passer mon temps libre;travel_suggestion
+Que puis-je faire à Nashville;travel_suggestion
+Donnez-moi une liste de choses à faire à Orlando;travel_suggestion
+Où est la meilleure cave du sud de la France;travel_suggestion
+Y a-t-il des activités touristiques amusantes en Australie;travel_suggestion
+Voulez-vous me faire part des restrictions de bagage à main pour American Airlines;carry_on
+Restrictions de cabine pour les émirats arabes unis;carry_on
+Qu'est-ce que je suis autorisé à prendre en cabine avec American Airlines;carry_on
+Y a-t-il une limite de poids pour mon bagage à main;carry_on
+Combien de bagages à main puis-je prendre pendant un vol avec United pour Lax;carry_on
+Quelles sont les règles concernant les bagages à main pour les vols Virgin Airlines;carry_on
+Y a-t-il une limite de poids de bagage cabine;carry_on
+Dois-je payer pour mes bagages à main;carry_on
+Réservez-moi une chambre du 11 au 15 novembre à Cali;book_hotel
+Trouvez-moi un endroit où séjourner à Cali du 11 au 15 novembre;book_hotel
+Quels hôtels ont des critiques décentes à Bangor;book_hotel
+Veuillez me trouver une chambre d'hôtel pour 4 personnes du lundi au mercredi à Lakewood;book_hotel
+Trouvez un hôtel Columbus, Ohio avec de bonnes critiques;book_hotel
+S'il vous plaît, aidez-moi à réserver un endroit où séjourner à Pittsburgh du lundi au vendredi;book_hotel
+J'ai besoin d'une chambre d'hôtel assez grande pour 4 personnes du lundi au mercredi à Lakewood;book_hotel
+Trouvez-moi des vols aller-retour de LAX vers SFOX;book_flight
+Réservez un vol de Chicago à DC lundi et revenant mercredi;book_flight
+Je recherche un vol aller-retour de AAF à DIA du 23 février au 28 février;book_flight
+Pourriez-vous faire une réservation de vol avec Air Emirates d'Orlando à Londres;book_flight
+J'ai besoin de réserver un vol aller-retour de Dallas à Los Angeles du 2 au 10 mars;book_flight
+Je voudrais savoir quels vols sont disponibles sur El Paso à Dallas le 10 juin pour moins de 300 $;book_flight
+Combien coûte des frais de découvert pour la banque;out_of_scope
+Quelle taille d'essuie-glace cette voiture prend-t-elle;out_of_scope
+Quel est le plus grand état des États-Unis;out_of_scope
+Quelle est la compagnie aérienne la plus populaire;out_of_scope
+Combien de planètes avons-nous découvert;out_of_scope
+Combien de côtés dans un hexagone;out_of_scope
+Combien de temps dure l'hiver;out_of_scope
+qui est l'entraîneur des Chicago Bulls;out_of_scope
+Combien d'Oscars ont gagné les films Star Wars;out_of_scope
+Veuillez trouver la capitale du Pakistan ;out_of_scope
+qui est le personnage le plus effrayant de Start Trek;out_of_scope
+Quelle est la durée de vie de la batterie moyenne d'un téléphone Android;out_of_scope
+Quand Camus est-il mort;out_of_scope
+Quand Nintendo a-t-il été créé;out_of_scope
+Quel personnage Marvel est apparu dans le plus de films;out_of_scope
+Quels sont les avantages de terminer le lycée;out_of_scope
+Pouvez-vous me dire à quelle vitesse moyenne l'avion vers la Californie va;out_of_scope
+Est-il possible de louer une voiture à la Laguardia du mardi au vendredi;out_of_scope
+Que vaut un dollar au Mexique;out_of_scope
+Quel est le taux de change entre l'USD et l'euro;out_of_scope
+Pouvez-vous me dire le fuseau horaire à San Francisco;out_of_scope
+Pouvez-vous me traduire la phrase «Où est la gare la plus proche ?» en espagnol s'il vous plaît ?;translate
+Je voudrais savoir comment dire «Je cherche un bon restaurant» en français;translate
+Comment dit-on «Je veux aller à la plage» en italien ?;translate
+Dites-moi comment on dit «Excusez-moi, où est l'office du tourisme ?» en allemand;translate
+Comment dit-on «Je suis perdu, pouvez-vous m'aider ?» en portugais ?;translate
+Je ne comprends pas, pourriez-vous traduire la phrase «Où se trouve la gare ?» en chinois ?;translate
+Pouvez-vous me dire comment dire «Je suis allergique aux fruits de mer» en japonais s'il vous plaît ?;translate
+Comment dit-on «Je voudrais une chambre avec vue sur la mer» en espagnol ?;translate
+Dites-moi comment on dit «Pouvez-vous me recommander un bon restaurant ?» en italien;translate
+Comment dit-on «Excusez-moi, où puis-je trouver un distributeur automatique ?» en allemand ?;translate
+Je ne comprends pas, pourriez-vous traduire la phrase «Où se trouve la gare ?» en russe ?;translate
+Pouvez-vous me dire comment dire «Je suis allergique aux noix» en espagnol s'il vous plaît ?;translate
+Comment dit-on «Je voudrais une chambre avec balcon» en italien ?;translate
+Dites-moi comment on dit «Pouvez-vous me recommander un bon restaurant ?» en allemand;translate
+Comment dit-on «Excusez-moi, où puis-je trouver un arrêt de bus ?» en portugais ?;translate
+Je suis désolé, je ne comprends pas, pouvez-vous traduire la phrase «Où se trouve la plage ?» en japonais ?;translate
+Pouvez-vous me dire comment dire «Je suis végétarien» en espagnol s'il vous plaît ?;translate
+Comment dit-on «Je voudrais une table pour deux personnes» en italien ?;translate
+Quelles sont les alertes de voyage pour la France;travel_alert
+Est-ce qu'il y a des avertissements de voyage pour le Brésil;travel_alert
+Parlez-moi des alertes de voyage émises pour l'Espagne;travel_alert
+Quels sont les pays avec des alertes de voyage en Amérique du Sud;travel_alert
+Est-ce que je devrais être conscient des avertissements de voyage pour la Thaïlande;travel_alert
+Y a-t-il des alertes de voyage pour le Japon;travel_alert
+Quels sont les pays avec des avertissements de voyage en Afrique;travel_alert
+Est-ce sûr de voyager en Inde;travel_alert
+Y a-t-il des alertes de voyage pour la Chine;travel_alert
+Quels sont les pays avec des avertissements de voyage en Europe;travel_alert
+Est-ce que je devrais prendre en compte les avertissements de voyage pour le Mexique;travel_alert
+Quelles sont les alertes de voyage pour le Royaume-Uni;travel_alert
+Est-ce sûr de se rendre en Australie;travel_alert
+Y a-t-il des alertes de voyage pour l'Italie;travel_alert
+Quels sont les pays avec des avertissements de voyage en Asie;travel_alert
+Est-ce que je devrais être conscient des avertissements de voyage pour les États-Unis;travel_alert
+Quelles sont les alertes de voyage pour la Grèce;travel_alert
+Est-ce sûr de voyager en Turquie;travel_alert
+Y a-t-il des alertes de voyage pour le Canada;travel_alert
+Quels sont les pays avec des avertissements de voyage en Amérique du Nord;travel_alert
+Est-ce que je devrais prendre en compte les avertissements de voyage pour la Russie;travel_alert
+Quelles sont les alertes de voyage pour l'Égypte;travel_alert
+Est-ce sûr de se rendre en Argentine;travel_alert
+Y a-t-il des alertes de voyage pour l'Allemagne;travel_alert
+À quelle heure est prévu l'atterrissage de mon vol;flight_status
+Quand puis-je m'attendre à ce que mon vol décolle;flight_status
+Quelle est la durée de mon vol;flight_status
+Mon vol est-il à l'heure;flight_status
+Quand est-ce que je peux récupérer mes bagages après l'atterrissage;flight_status
+Est-ce que mon vol a été retardé;flight_status
+Quand vais-je pouvoir embarquer dans mon avion;flight_status
+À quelle heure est prévue l'arrivée de mon vol;flight_status
+Quelle est la compagnie aérienne de mon vol;flight_status
+Quel est le numéro de vol de mon avion;flight_status
+Quand est-ce que mon vol sera annoncé;flight_status
+Où est la salle d'embarquement pour mon vol;flight_status
+Est-ce que mon vol est complet;flight_status
+Quand mon vol sera-t-il à destination;flight_status
+Combien de temps faut-il pour se rendre à l'aéroport depuis le centre-ville;flight_status
+Est-ce que mon vol est annulé;flight_status
+Quel est le statut de mon vol;flight_status
+Quand est-ce que je peux enregistrer mes bagages;flight_status
+À quelle heure dois-je arriver à l'aéroport pour mon vol;flight_status
+Quelle est la durée du vol;flight_status
+Quand vais-je atterrir;flight_status
+À quelle heure est prévu le décollage de mon vol;flight_status
+Quand est-ce que mon vol sera appelé pour l'embarquement;flight_status
+Je ne trouve pas mes valises, elles ont disparu à l'aéroport;lost_luggage
+Est-ce que vous pouvez m'aider à retrouver mes bagages ?;lost_luggage
+J'ai perdu mes bagages lors de mon vol avec Air France;lost_luggage
+Comment puis-je signaler la perte de mes valises ?;lost_luggage
+Mes bagages ont été égarés lors de mon voyage en car;lost_luggage
+Je suis inquiet car mes valises ne sont pas arrivées à destination;lost_luggage
+Où puis-je récupérer mes bagages perdus ?;lost_luggage
+Je viens d'atterrir et mes valises sont introuvables;lost_luggage
+Mes bagages ne sont pas sur le tapis roulant, que dois-je faire ?;lost_luggage
+J'ai perdu ma valise à l'aéroport de Paris;lost_luggage
+Est-ce qu'il y a un bureau des objets trouvés à l'aéroport ?;lost_luggage
+Je suis en vacances et mes valises ont été perdues en chemin;lost_luggage
+Je ne retrouve pas mes valises, elles ont été égarées lors de mon vol;lost_luggage
+Mes bagages ont été perdus lors de mon transfert à l'aéroport;lost_luggage
+Comment puis-je retrouver mes valises perdues à l'aéroport ?;lost_luggage
+J'ai perdu mes bagages pendant mon voyage en train;lost_luggage
+Je suis arrivé à destination mais mes valises sont manquantes;lost_luggage
+Qui dois-je contacter en cas de perte de bagages ?;lost_luggage
+Je suis inquiet car mes valises ne sont pas arrivées avec moi;lost_luggage
+Mes bagages ont été égarés lors de mon vol avec Ryanair;lost_luggage
+Je ne trouve pas mes valises, elles ont été perdues lors du trajet en bus;lost_luggage
+Où puis-je faire une réclamation pour mes bagages perdus ?;lost_luggage
+Quels sont les meilleurs hôtels à Paris;travel_suggestion
+Je cherche des idées d'excursions d'une journée à Rome;travel_suggestion
+Quelles sont les attractions touristiques à visiter à Londres;travel_suggestion
+Où puis-je trouver des informations sur les visites guidées à New York;travel_suggestion
+Je veux découvrir la cuisine locale à Barcelone;travel_suggestion
+Quels sont les endroits à ne pas manquer à Amsterdam;travel_suggestion
+Je cherche des conseils pour voyager à Bali;travel_suggestion
+Veuillez me recommander des plages en Thaïlande;travel_suggestion
+Je veux faire du shopping à Tokyo, où devrais-je aller;travel_suggestion
+Quels sont les meilleurs bars à Berlin;travel_suggestion
+Je prévois de visiter Sydney, quelles sont les activités incontournables;travel_suggestion
+Je cherche des idées de randonnées en Suisse;travel_suggestion
+Quelles sont les meilleures plages à Ibiza;travel_suggestion
+Je veux découvrir la vie nocturne à Las Vegas;travel_suggestion
+Où puis-je trouver des informations sur les parcs à thème à Orlando;travel_suggestion
+Je souhaite visiter le musée du Louvre à Paris, quel est le meilleur moment pour y aller;travel_suggestion
+Quels sont les monuments historiques à visiter à Rome;travel_suggestion
+Je suis intéressé par des excursions en bateau à Londres;travel_suggestion
+Je veux savoir où trouver des brochures touristiques à New York;travel_suggestion
+Quels sont les meilleurs restaurants de tapas à Barcelone;travel_suggestion
+Je cherche des endroits pittoresques à photographier à Amsterdam;travel_suggestion
+Quelles sont les meilleures périodes de l'année pour visiter Bali;travel_suggestion
+Je veux faire de la plongée en Thaïlande, où sont les meilleurs sites de plongée;travel_suggestion
+Quels sont les quartiers animés à Tokyo;travel_suggestion
+Puis-je emporter des liquides dans mon bagage à main;carry_on
+Qu'est-ce qui est autorisé dans mon bagage à main;carry_on
+Est-ce que je peux emporter des médicaments dans mon bagage à main;carry_on
+Quelles sont les dimensions maximales pour un bagage à main;carry_on
+Quelle est la taille maximale autorisée pour les bagages à main;carry_on
+Y a-t-il des restrictions de taille pour les bagages à main;carry_on
+Les ciseaux sont-ils autorisés dans les bagages à main;carry_on
+Puis-je emporter des liquides de plus de 100ml dans mon bagage à main;carry_on
+Est-ce que je peux emporter un ordinateur portable dans mon bagage à main;carry_on
+Quelles sont les restrictions pour les objets tranchants dans les bagages à main;carry_on
+Est-ce que je peux emporter des aliments dans mon bagage à main;carry_on
+Y a-t-il une limite de liquides autorisée dans les bagages à main;carry_on
+Dois-je retirer mes chaussures lors du contrôle de sécurité;carry_on
+Quelles sont les règles pour les parfums dans les bagages à main;carry_on
+Est-ce que je peux emporter des bouteilles de vin dans mon bagage à main;carry_on
+Quels sont les articles interdits dans les bagages à main;carry_on
+Y a-t-il une limite de nombre de bagages à main autorisés;carry_on
+Quelles compagnies aériennes n'autorisent pas les bagages à main;carry_on
+Est-ce que je peux emporter un briquet dans mon bagage à main;carry_on
+Quelles sont les restrictions pour les batteries dans les bagages à main;carry_on
+Est-ce que je peux emporter un parapluie dans mon bagage à main;carry_on
+Y a-t-il une limite de nombre de liquides autorisés dans les bagages à main;carry_on
+Je voudrais réserver une chambre d'hôtel pour deux personnes à Paris;book_hotel
+Quels sont les meilleurs hôtels à Rome ? Pouvez-vous m'aider à réserver ?;book_hotel
+Je cherche un hôtel abordable à Madrid du 10 au 15 septembre;book_hotel
+Avez-vous des recommandations pour un hôtel près de la Tour Eiffel ?;book_hotel
+Je vais à Londres pour un voyage d'affaires. Pouvez-vous m'aider à trouver un hôtel près du centre-ville ?;book_hotel
+Je souhaite réserver une chambre d'hôtel à New York pour mon anniversaire;book_hotel
+Je vais à Barcelone pour les vacances. Pouvez-vous m'aider à trouver un hôtel avec piscine ?;book_hotel
+Je cherche un bon hôtel à Berlin avec petit-déjeuner inclus;book_hotel
+Je vais à Amsterdam le week-end prochain. Avez-vous des recommandations pour un hôtel abordable ?;book_hotel
+Je voudrais réserver une chambre d'hôtel à Sydney pour une semaine;book_hotel
+Je cherche un hôtel près de la plage à Miami. Pouvez-vous m'aider ?;book_hotel
+Je vais à Tokyo pour les vacances. Pouvez-vous m'aider à trouver un hôtel près des attractions touristiques ?;book_hotel
+Je souhaite réserver une chambre d'hôtel à Venise pour notre lune de miel;book_hotel
+Je vais à Prague pour un voyage d'affaires. Pouvez-vous m'aider à trouver un hôtel près du centre des congrès ?;book_hotel
+Je cherche un hôtel abordable à Toronto avec Wi-Fi gratuit;book_hotel
+Je vais à San Francisco pour les vacances. Avez-vous des recommandations pour un hôtel avec vue sur la baie ?;book_hotel
+Je voudrais réserver une chambre d'hôtel à Cancun pour le mois de décembre;book_hotel
+Je cherche un hôtel près du parc Disneyland à Paris. Pouvez-vous m'aider ?;book_hotel
+Je vais à Rio de Janeiro pour le carnaval. Pouvez-vous m'aider à trouver un hôtel près du Sambodrome ?;book_hotel
+Je voudrais réserver un vol aller simple de Paris à New York;book_flight
+Quels sont les vols disponibles de Los Angeles à Tokyo ?;book_flight
+Pourriez-vous me trouver un vol aller-retour de Londres à Sydney ?;book_flight
+Je cherche un vol de Miami à Cancun pour le mois de mars;book_flight
+Pouvez-vous me donner les horaires des vols de New York à Chicago ?;book_flight
+Je souhaite réserver un vol de Barcelone à Rome pour la semaine prochaine;book_flight
+Je voudrais savoir s'il y a des vols directs de San Francisco à Paris;book_flight
+Trouvez-moi un vol de Madrid à Lisbonne avec une escale;book_flight
+Quels sont les prix des vols de Berlin à Amsterdam ?;book_flight
+Je suis à la recherche d'un vol de Montréal à Vancouver pour le mois d'août;book_flight
+Réservez-moi un vol aller simple de Sydney à Melbourne;book_flight
+Je voudrais savoir quelles compagnies aériennes desservent Rome;book_flight
+Quels sont les vols disponibles de Paris à Marrakech ?;book_flight
+Je souhaite réserver un vol aller-retour de New York à Los Angeles;book_flight
+Pouvez-vous me donner les horaires des vols de Londres à Dubaï ?;book_flight
+Je cherche un vol de Barcelone à Ibiza pour le mois de juillet;book_flight
+Je voudrais savoir s'il y a des vols directs de San Francisco à Tokyo;book_flight
+Trouvez-moi un vol de Madrid à Paris avec une escale;book_flight
+Quels sont les prix des vols de Berlin à Barcelone ?;book_flight
+Je suis à la recherche d'un vol de Montréal à Toronto pour le mois de juin;book_flight
+Réservez-moi un vol aller simple de Sydney à Brisbane;book_flight
+Je voudrais savoir quelles compagnies aériennes desservent Istanbul;book_flight
+Quels sont les vols disponibles de Paris à Rome ?;book_flight
+Je voudrais savoir comment dire «Bonjour» en russe;translate
+Est-ce que vous pouvez me dire comment dire «Excusez-moi» en allemand;translate
+Dites-moi comment dire «Merci beaucoup» en portugais;translate
+Pourriez-vous m'indiquer comment dire «Où est la gare?» en néerlandais;translate
+Je souhaiterais savoir comment dire «Au revoir» en suédois;translate
+Comment dit-on «Je suis perdu» en anglais;translate
+Pouvez-vous me dire comment dire «Je cherche un restaurant» en espagnol;translate
+Dites-moi comment dire «Je ne comprends pas» en italien;translate
+Veuillez me dire comment demander l'heure en français;translate
+Si j'étais japonais, comment dirais-je que j'ai besoin d'aide;translate
+Comment dire «musée» en finnois;translate
+Je voudrais savoir comment dire «S'il vous plaît» en russe;translate
+Est-ce que vous pouvez me dire comment dire «Excusez-moi, je suis en retard» en allemand;translate
+Dites-moi comment dire «Je suis désolé» en portugais;translate
+Pourriez-vous m'indiquer comment dire «Où est la plage?» en néerlandais;translate
+Je souhaiterais savoir comment dire «Je suis fatigué» en suédois;translate
+Comment dit-on «Je suis allergique aux fruits de mer» en anglais;translate
+Pouvez-vous me dire comment dire «Je veux commander quelque chose à manger» en espagnol;translate
+Quelles sont les alertes de voyage pour l'Espagne;travel_alert
+Y a-t-il des restrictions de voyage pour le Japon;travel_alert
+Est-il sûr de voyager en Italie en ce moment;travel_alert
+Quelles sont les recommandations de voyage pour le Brésil;travel_alert
+Existe-t-il des alertes de voyage pour la Grèce;travel_alert
+Y a-t-il des alertes de voyage pour le Mexique;travel_alert
+Quelles sont les précautions à prendre pour voyager en Inde;travel_alert
+Est-il sûr de visiter la Thaïlande en ce moment;travel_alert
+Existe-t-il des restrictions de voyage pour l'Egypte;travel_alert
+Quelles sont les alertes de voyage pour les Etats-Unis;travel_alert
+Y a-t-il des recommandations de voyage pour l'Australie;travel_alert
+Est-il sûr de se rendre au Royaume-Uni en ce moment;travel_alert
+Quelles sont les alertes de voyage pour le Canada;travel_alert
+Y a-t-il des restrictions de voyage pour la Chine;travel_alert
+Existe-t-il des alertes de voyage pour la Russie;travel_alert
+Est-il sûr de voyager en Afrique du Sud en ce moment;travel_alert
+Quelles sont les recommandations de voyage pour la Nouvelle-Zélande;travel_alert
+Y a-t-il des alertes de voyage pour la Turquie;travel_alert
+Est-il sûr de visiter l'Argentine en ce moment;travel_alert
+Y a-t-il des précautions à prendre pour voyager en Allemagne;travel_alert
+Existe-t-il des alertes de voyage pour l'Espagne;travel_alert
+Est-il sûr de se rendre en Italie en ce moment;travel_alert
+Quelles sont les recommandations de voyage pour le Portugal;travel_alert
+Y a-t-il des restrictions de voyage pour la Suisse;travel_alert
+Où puis-je signaler mes bagages perdus à l'aéroport;lost_luggage
+Je ne trouve pas mes valises, que dois-je faire maintenant;lost_luggage
+Mes bagages ont été égarés lors de mon vol avec British Airways;lost_luggage
+Perte des bagages sur le vol Lufthansa à l'aéroport de Francfort;lost_luggage
+Comment puis-je récupérer mes bagages si je les ai perdus lors de mon vol;lost_luggage
+Mes valises n'ont pas été livrées à l'aéroport, que dois-je faire;lost_luggage
+Je suis inquiet car mes bagages ne sont pas arrivés à destination;lost_luggage
+Que faire si mes bagages sont perdus pendant mon voyage en avion;lost_luggage
+Je suis arrivé à l'aéroport mais mes bagages sont introuvables;lost_luggage
+Comment puis-je retrouver mes valises si elles sont perdues pendant mon vol;lost_luggage
+Je ne sais pas comment récupérer mes bagages égarés à l'aéroport;lost_luggage
+Mes valises sont manquantes, que dois-je faire maintenant;lost_luggage
+J'ai signalé mes bagages perdus à l'aéroport mais je n'ai pas reçu de réponse;lost_luggage
+Est-ce que mes bagages perdus peuvent être retrouvés;lost_luggage
+Je suis inquiet car mes valises n'ont pas été enregistrées sur mon vol;lost_luggage
+Perte des bagages sur le vol Delta Airlines à l'aéroport de New York;lost_luggage
+Que puis-je faire si mes bagages sont égarés pendant mon voyage en avion;lost_luggage
+Je ne peux pas trouver mes valises à l'aéroport, que dois-je faire;lost_luggage
+Mes bagages ont été perdus lors de mon vol avec Emirates;lost_luggage
+Comment puis-je récupérer mes bagages si je les ai perdus à l'aéroport;lost_luggage
+Je prévois de visiter Paris, quelles sont les attractions touristiques à ne pas manquer?;travel_suggestion
+Que recommandez-vous de faire à Barcelone pour un touriste?;travel_suggestion
+Quelles sont les meilleures choses à faire à Rome?;travel_suggestion
+Pouvez-vous me donner des suggestions d'activités touristiques à Londres?;travel_suggestion
+Quels sont les endroits à visiter à New York?;travel_suggestion
+Y a-t-il des attractions touristiques populaires à Berlin?;travel_suggestion
+Veuillez suggérer des activités touristiques à Amsterdam;travel_suggestion
+Quels sont les meilleurs endroits à visiter à Sydney?;travel_suggestion
+Si je vais à Barcelone, que dois-je faire?;travel_suggestion
+Quels sont les sites touristiques recommandés à Kyoto?;travel_suggestion
+Quelles sont les activités touristiques populaires à San Francisco?;travel_suggestion
+Quels sont les endroits incontournables à visiter à Toronto?;travel_suggestion
+Y a-t-il des attractions touristiques intéressantes à Bangkok?;travel_suggestion
+Veuillez me recommander des activités touristiques à Cancun;travel_suggestion
+Quels sont les meilleurs endroits à visiter à Rio de Janeiro?;travel_suggestion
+Si je vais à Prague, que dois-je faire?;travel_suggestion
+Quels sont les sites touristiques recommandés à Shanghai?;travel_suggestion
+Quelles sont les activités touristiques populaires à Los Angeles?;travel_suggestion
+Quels sont les endroits incontournables à visiter à Cape Town?;travel_suggestion
+Y a-t-il des attractions touristiques intéressantes à Istanbul?;travel_suggestion
+Veuillez me recommander des activités touristiques à Mexico;travel_suggestion
+Quels sont les meilleurs endroits à visiter à Dubaï?;travel_suggestion
+Si je vais à Amsterdam, que dois-je faire?;travel_suggestion
+Quels sont les sites touristiques recommandés à Séoul?;travel_suggestion
+Quelle est la taille maximale autorisée pour mon bagage à main;carry_on
+Est-ce que je peux emporter une bouteille d'eau dans mon bagage à main;carry_on
+Puis-je emporter mon ordinateur portable dans la cabine;carry_on
+Est-ce que je peux prendre des médicaments liquides dans mon bagage à main;carry_on
+Quels articles sont interdits dans les bagages à main;carry_on
+Est-ce que je peux transporter des aliments dans mon bagage à main;carry_on
+Quelle est la limite de liquides autorisée dans les bagages à main;carry_on
+Dois-je enregistrer mon bagage à main;carry_on
+Est-ce que je peux emporter des ciseaux dans mon bagage à main;carry_on
+Y a-t-il des règles spéciales pour les bagages à main des enfants;carry_on
+Quelles sont les restrictions de taille pour les bagages à main avec EasyJet;carry_on
+Est-ce que je peux emporter un parapluie dans la cabine;carry_on
+Dois-je retirer mon ordinateur portable de mon bagage à main lors du contrôle de sécurité;carry_on
+Quelles sont les règles concernant les batteries dans les bagages à main;carry_on
+Est-ce que je peux emporter mon rasoir électrique dans la cabine;carry_on
+Est-ce que je peux transporter un briquet dans mon bagage à main;carry_on
+Quelles sont les restrictions pour les liquides dans les vols internationaux;carry_on
+Est-ce que je peux emporter des produits de beauté dans mon bagage à main;carry_on
+Y a-t-il des limites de taille pour les bagages à main avec Ryanair;carry_on
+Est-ce que je peux emporter un appareil photo dans la cabine;carry_on
+Je voudrais réserver un hôtel à Paris du 20 au 25 juillet;book_hotel
+Pouvez-vous trouver un hébergement pour moi à Londres pendant une semaine à partir de demain;book_hotel
+Je cherche un hôtel avec une piscine à Barcelone;book_hotel
+Quels sont les hôtels recommandés à Rome;book_hotel
+Je veux réserver une chambre d'hôtel pour deux nuits à Berlin;book_hotel
+Aidez-moi à trouver un hébergement proche de la tour Eiffel à Paris;book_hotel
+Je cherche un hôtel avec vue sur la mer à Nice;book_hotel
+Je veux réserver un hôtel près de l'aéroport de Madrid;book_hotel
+Pouvez-vous trouver un hébergement abordable à Amsterdam;book_hotel
+J'aimerais réserver une suite de luxe à New York pour le week-end prochain;book_hotel
+Je cherche un hôtel avec un jacuzzi à Miami;book_hotel
+Je veux réserver une chambre d'hôtel avec petit déjeuner inclus à Barcelone;book_hotel
+Quels sont les hôtels les mieux notés à Tokyo;book_hotel
+Je cherche un hébergement pour une personne à San Francisco;book_hotel
+Je voudrais réserver une chambre d'hôtel avec vue sur la plage à Rio de Janeiro;book_hotel
+Pouvez-vous trouver un hôtel près de la vieille ville de Prague;book_hotel
+Je cherche un hébergement pour une famille de cinq personnes à Orlando;book_hotel
+Je veux réserver un hôtel avec parking gratuit à Genève;book_hotel
+Aidez-moi à trouver un hébergement avec une cuisine à Los Angeles;book_hotel
+Je cherche un hôtel bien situé à Sydney;book_hotel
+Je voudrais réserver une chambre d'hôtel pour une nuit à Prague;book_hotel
+Pouvez-vous trouver un hébergement abordable à Venise;book_hotel
+Je voudrais réserver un vol de Paris à New York pour le 15 juillet;book_flight
+Quels sont les vols disponibles de Madrid à Rome pour le mois d'août?;book_flight
+J'aimerais trouver un billet d'avion de Londres à Sydney à un prix abordable;book_flight
+Pouvez-vous me recommander une compagnie aérienne pour un vol de Tokyo à Séoul?;book_flight
+Je cherche un vol aller simple de Milan à Barcelone pour le week-end prochain;book_flight
+Quels sont les vols directs de Los Angeles à Cancun?;book_flight
+Je souhaite réserver un vol de Berlin à Bangkok avec une escale à Istanbul;book_flight
+Est-ce que je peux trouver un vol de Moscou à Rio de Janeiro en première classe?;book_flight
+Je veux partir de Sydney à Paris le 1er septembre et revenir le 15 septembre;book_flight
+Quelles sont les options de vol de San Francisco à Honolulu pour la fin du mois?;book_flight
+Je recherche un vol pas cher de Singapour à Bali pour la fin de la semaine;book_flight
+Est-ce que vous avez des vols disponibles de New Delhi à Dubai?;book_flight
+Je veux réserver un vol aller-retour de Toronto à Mexico City pour les vacances;book_flight
+Pouvez-vous m'aider à trouver un vol de Buenos Aires à Santiago du Chili?;book_flight
+Je cherche un vol de Genève à Barcelone avec un départ le 10 mars;book_flight
+Quelle est la meilleure compagnie aérienne pour un vol de São Paulo à Miami?;book_flight
+Je voudrais réserver un vol de Johannesburg à Cape Town pour le mois prochain;book_flight
+Est-il possible de trouver un vol direct de Vancouver à Sydney?;book_flight
+Je suis à la recherche d'un vol de Rome à Athènes avec un départ le 20 avril;book_flight
+Quels sont les vols disponibles de Dubaï à Londres pour le mois de juin?;book_flight
+Je veux réserver un vol de Shanghai à Pékin pour la fin de la semaine;book_flight
+Quel est le nom du président de la France;out_of_scope
+Combien de temps dure le vol entre Paris et New York;out_of_scope
+Quelle est la capitale de la Russie;out_of_scope
+Quel est le meilleur moment pour visiter le Grand Canyon;out_of_scope
+Quels sont les meilleurs restaurants à Rome;out_of_scope
+Est-il possible de faire du ski à Miami;out_of_scope
+Quelle est la durée moyenne d'un safari en Afrique;out_of_scope
+Quel est le meilleur parc d'attractions en Californie;out_of_scope
+Est-ce que le Taj Mahal est ouvert la nuit;out_of_scope
+Quel est le fuseau horaire de Dubaï;out_of_scope
+Où puis-je trouver les meilleurs chocolats à Bruxelles;out_of_scope
+Quelle est la meilleure période pour visiter les châteaux de la Loire;out_of_scope
+Quel est le meilleur moyen de transport pour se déplacer à Amsterdam;out_of_scope
+Est-ce que les hôtels à Las Vegas offrent un service de navette aéroport;out_of_scope
+Quels sont les documents nécessaires pour voyager en Australie;out_of_scope
+Quelle est la monnaie utilisée au Japon;out_of_scope
+Est-ce qu'il y a des restrictions de poids pour les bagages à main;out_of_scope
+Quel est le meilleur moment pour observer les aurores boréales en Islande;out_of_scope
+Est-ce que le Wi-Fi est disponible dans les trains en Europe;out_of_scope
+Quel est le code vestimentaire pour visiter les temples en Thaïlande;out_of_scope
+Est-il possible de visiter la Tour Eiffel la nuit;out_of_scope
+Quelle est la meilleure compagnie aérienne pour les vols long-courriers;out_of_scope
+Est-ce qu'il y a des vols directs entre Sydney et New York;out_of_scope
+Quel est le meilleur moment pour visiter les plages de Bali;out_of_scope
+Pouvez-vous me traduire cette phrase en allemand : «Où est la gare la plus proche ?»;translate
+Je voudrais savoir comment dire «Bonjour» en chinois;translate
+Quel est le mot allemand pour «merci» ?;translate
+J'ai besoin de traduire cette phrase en japonais : «Excusez-moi, où puis-je trouver un distributeur automatique ?»;translate
+Comment dit-on «Je suis perdu» en espagnol ?;translate
+Je souhaite savoir comment dire «Avez-vous des recommandations pour un bon restaurant ?» en italien;translate
+Pouvez-vous traduire cette phrase en russe : «Je voudrais réserver une chambre pour une nuit»;translate
+Quel est le mot en portugais pour «plage» ?;translate
+Je voudrais connaître la traduction en français de ce mot : «Montagne»;translate
+Comment dit-on «Excusez-moi, pourriez-vous me prendre en photo ?» en mandarin ?;translate
+Pouvez-vous me traduire cette phrase en arabe : «Je cherche un endroit pour acheter des souvenirs»;translate
+Je voudrais savoir comment dire «Je suis allergique aux noix» en anglais;translate
+Quel est le mot italien pour «musée» ?;translate
+J'ai besoin de traduire cette phrase en coréen : «Pouvez-vous me recommander un bon hôtel ?»;translate
+Comment dit-on «Excusez-moi, où se trouve la station de métro la plus proche ?» en espagnol ?;translate
+Pouvez-vous traduire cette phrase en allemand : «Où puis-je trouver un bon restaurant ?»;translate
+Quel est le mot en japonais pour «plage» ?;translate
+Je voudrais connaître la traduction en italien de ce mot : «Billet»;translate
+Comment dit-on «Excusez-moi, pourriez-vous me donner des indications pour aller à l'aéroport ?» en français ?;translate
+Pouvez-vous me traduire cette phrase en russe : «Je voudrais réserver une voiture pour une semaine»;translate
+Quel est le mot en portugais pour «parc» ?;translate
+Je voudrais savoir comment dire «Je suis perdu» en allemand;translate
+J'ai besoin de traduire cette phrase en chinois : «Pouvez-vous me recommander des sites touristiques à visiter ?»;translate
+Comment dit-on «Excusez-moi, où puis-je trouver un bureau de change ?» en italien ?;translate
+Pouvez-vous traduire cette phrase en anglais : «Je cherche un bon restaurant pour dîner»;translate
+Quel est le mot en espagnol pour «montagne» ?;translate
+Je voudrais connaître la traduction en français de ce mot : «Plage»;translate
+Comment dit-on «Excusez-moi, pouvez-vous m'indiquer où se trouve l'office de tourisme ?» en mandarin ?;translate
+Pouvez-vous me traduire cette phrase en arabe : «Je voudrais réserver une excursion d'une journée»;translate
+Je voudrais savoir comment dire «Je suis allergique au gluten» en anglais;translate
+Quel est le mot italien pour «parc» ?;translate
+J'ai besoin de traduire cette phrase en coréen : «Où est la gare la plus proche ?»;translate
+Comment dit-on «Excusez-moi, où puis-je trouver un distributeur automatique ?» en espagnol ?;translate
+Pouvez-vous traduire cette phrase en allemand : «Pouvez-vous m'indiquer où je peux trouver un bon restaurant ?»;translate
+Quel est le mot en japonais pour «musée» ?;translate
+Je voudrais connaître la traduction en italien de ce mot : «Billet d'avion»;translate
+Comment dit-on «Excusez-moi, pourriez-vous me recommander un bon hôtel ?» en français ?;translate
+Pouvez-vous me traduire cette phrase en russe : «Combien coûte une chambre pour une nuit ?»;translate
+Quel est le mot en portugais pour «musée» ?;translate
+Je voudrais savoir comment dire «J'ai besoin d'aide» en allemand;translate
+J'ai besoin de traduire cette phrase en chinois : «Est-ce que vous parlez anglais ?»;translate
+Comment dit-on «Excusez-moi, comment puis-je me rendre à la plage ?» en italien ?;translate
+Pouvez-vous traduire cette phrase en anglais : «Je cherche un bon hôtel pour mon séjour»;translate
+Quel est le mot en espagnol pour «parc national» ?;translate
+Je voudrais connaître la traduction en français de ce mot : «Musée»;translate
+Comment dit-on «Excusez-moi, pouvez-vous me prendre en photo ?» en mandarin ?;translate
+Pouvez-vous me traduire cette phrase en arabe : «Où puis-je trouver un bon restaurant ?»;translate
+Je voudrais savoir comment dire «Je suis végétarien» en anglais;translate
+Quel est le mot italien pour «parc national» ?;translate
+J'ai besoin de traduire cette phrase en coréen : «Où puis-je acheter des souvenirs ?»;translate
+Comment dit-on «Excusez-moi, pouvez-vous m'indiquer où se trouve la station de métro la plus proche ?» en espagnol ?;translate
+Pouvez-vous traduire cette phrase en allemand : «Est-ce que vous avez des recommandations pour des sites touristiques ?»;translate
+Quel est le mot en japonais pour «parc national» ?;translate
+Je voudrais connaître la traduction en italien de ce mot : «Aéroport»;translate
+Comment dit-on «Excusez-moi, je cherche l'office de tourisme. Pouvez-vous m'aider ?» en français ?;translate
+Pouvez-vous me traduire cette phrase en russe : «Pouvez-vous réserver un taxi pour moi ?»;translate
+Quel est le mot en portugais pour «restaurant» ?;translate
+J'ai besoin de traduire cette phrase en chinois : «Pouvez-vous me recommander un bon hôtel ?»;translate
+Pouvez-vous traduire cette phrase en anglais : «Pouvez-vous me donner des indications pour aller au musée ?»;translate
+Quel est le mot en espagnol pour «plage» ?;translate
+Je voudrais connaître la traduction en français de ce mot : «Parc national»;translate
+Pouvez-vous me traduire cette phrase en arabe : «Pouvez-vous réserver une excursion d'une journée ?»;translate
+Je voudrais savoir comment dire «Je suis végétalien» en anglais;translate
+J'ai besoin de traduire cette phrase en coréen : «Où puis-je trouver un distributeur automatique ?»;translate
+Comment dit-on «Excusez-moi, pouvez-vous me donner des indications pour aller à l'aéroport ?» en espagnol ?;translate
+Je voudrais connaître la traduction en italien de ce mot : «Vol»;translate
+Comment dit-on «Excusez-moi, pourriez-vous me prendre en photo ?» en français ?;translate
+Pouvez-vous me traduire cette phrase en russe : «Est-ce qu'il y a un bureau de change à proximité ?»;translate
+Quel est le mot en portugais pour «billet» ?;translate
+Y a-t-il des alertes de voyage pour la Thaïlande;travel_alert
+Existe-t-il des restrictions de voyage pour le Mexique;travel_alert
+Je voudrais savoir s'il y a une alerte de voyage pour le Brésil;travel_alert
+Est-ce que je devrais être au courant des alertes de voyage pour l'Espagne;travel_alert
+Y a-t-il des avertissements de voyage pour la Grèce;travel_alert
+Quelles sont les alertes de voyage pour l'Italie;travel_alert
+Suis-je concerné par une alerte de voyage pour la Chine;travel_alert
+Existe-t-il des avertissements de voyage pour l'Égypte;travel_alert
+Est-il sûr de voyager en Inde en ce moment;travel_alert
+Est-ce que je devrais prendre en compte les avertissements de voyage pour le Japon;travel_alert
+Parlez-moi des alertes de voyage pour l'Australie;travel_alert
+Existe-t-il des restrictions de voyage pour l'Indonésie;travel_alert
+Suis-je concerné par une alerte de voyage pour le Royaume-Uni;travel_alert
+Y a-t-il des avertissements de voyage pour les États-Unis;travel_alert
+Est-il sûr de se rendre en Argentine;travel_alert
+Existe-t-il des avertissements de voyage pour la Malaisie;travel_alert
+Je voudrais savoir s'il y a une alerte de voyage pour la Colombie;travel_alert
+Est-ce que je devrais être au courant des alertes de voyage pour la Nouvelle-Zélande;travel_alert
+Y a-t-il des alertes de voyage pour la Russie;travel_alert
+Existe-t-il des restrictions de voyage pour les Bahamas;travel_alert
+Est-il sûr de voyager au Costa Rica en ce moment;travel_alert
+Y a-t-il des avertissements de voyage pour la Thaïlande;travel_alert
+Quelles sont les alertes de voyage pour le Brésil;travel_alert
+Suis-je concerné par une alerte de voyage pour l'Espagne;travel_alert
+Existe-t-il des avertissements de voyage pour la Grèce;travel_alert
+Est-ce que je devrais prendre en compte les alertes de voyage pour l'Italie;travel_alert
+Parlez-moi des avertissements de voyage pour l'Égypte;travel_alert
+Existe-t-il des avertissements de voyage pour le Japon;travel_alert
+Quelles sont les alertes de voyage pour l'Australie;travel_alert
+Suis-je concerné par une alerte de voyage pour la France;travel_alert
+Est-ce que je devrais prendre en compte les restrictions de voyage pour l'Indonésie;travel_alert
+Y a-t-il des avertissements de voyage pour le Royaume-Uni;travel_alert
+Est-il sûr de voyager aux États-Unis en ce moment;travel_alert
+Y a-t-il des alertes de voyage pour l'Argentine;travel_alert
+Existe-t-il des avertissements de voyage pour la Turquie;travel_alert
+Quelles sont les alertes de voyage pour la Malaisie;travel_alert
+Suis-je concerné par une alerte de voyage pour la Colombie;travel_alert
+Est-ce que je devrais prendre en compte les alertes de voyage pour la Nouvelle-Zélande;travel_alert
+Suis-je concerné par une alerte de voyage pour l'Indonésie;travel_alert
+Est-ce que je devrais prendre en compte les avertissements de voyage pour le Royaume-Uni;travel_alert
+Y a-t-il des alertes de voyage pour les États-Unis;travel_alert
+Existe-t-il des restrictions de voyage pour la Malaisie;travel_alert
+Est-ce que mon vol AB456 est à l'heure;flight_status
+Je voudrais savoir si mon vol est retardé;flight_status
+Quel est le statut de mon vol LH789;flight_status
+Le vol BA321 a-t-il été annulé;flight_status
+Pouvez-vous me dire si mon vol est confirmé;flight_status
+Je souhaite connaître l'heure d'arrivée de mon vol;flight_status
+Y a-t-il des informations sur le vol AZ567;flight_status
+Est-ce que mon vol est à l'heure;flight_status
+Quand est-ce que mon vol MH987 décolle;flight_status
+Veuillez me donner les détails de mon vol;flight_status
+Est-ce que mon vol est en retard;flight_status
+Je veux savoir si mon vol est confirmé;flight_status
+Quand est-ce que mon vol atterrira;flight_status
+Pouvez-vous me dire si mon vol est annulé;flight_status
+Quel est le statut de mon vol QR234;flight_status
+Est-ce que mon vol est toujours programmé;flight_status
+Je voudrais connaître l'heure de départ de mon vol;flight_status
+Y a-t-il des mises à jour sur le vol EK345;flight_status
+Est-ce que mon vol est à l'heure prévue;flight_status
+Quand vais-je arriver à ma destination;flight_status
+Je souhaite savoir si mon vol est retardé;flight_status
+Quand est-ce que mon vol décollera;flight_status
+Pouvez-vous me dire si mon vol est retardé;flight_status
+Est-ce que mon vol est confirmé pour demain;flight_status
+Je veux savoir si mon vol a été annulé;flight_status
+Quel est le statut de mon vol TK876;flight_status
+Quand est-ce que mon vol arrivera;flight_status
+Pouvez-vous me dire si mon vol est maintenu;flight_status
+Est-ce que mon vol est à l'heure de départ;flight_status
+Je voudrais connaître l'heure d'arrivée prévue de mon vol;flight_status
+Y a-t-il des informations sur le vol LH567;flight_status
+Est-ce que mon vol est à l'heure indiquée;flight_status
+Quand est-ce que mon vol UA987 décolle;flight_status
+Veuillez me donner les détails de mon vol AC876;flight_status
+Est-ce que mon vol est en retard aujourd'hui;flight_status
+Je veux savoir si mon vol est confirmé pour demain;flight_status
+Quand est-ce que mon vol atterrira à destination;flight_status
+Pouvez-vous me dire si mon vol est annulé ou maintenu;flight_status
+Est-ce que mon vol est prévu à l'heure;flight_status
+Je souhaite connaître l'heure de départ de mon vol;flight_status
+Y a-t-il des mises à jour sur le vol AF678;flight_status
+Est-ce que mon vol est à l'heure comme prévu;flight_status
+Quand vais-je arriver à ma destination finale;flight_status
+Je souhaite savoir si mon vol a été retardé ou annulé;flight_status
+Quand est-ce que mon vol démarre;flight_status
+Pouvez-vous me dire si mon vol est en retard;flight_status
+Est-ce que mon vol est confirmé pour aujourd'hui;flight_status
+Je veux savoir si mon vol a été annulé ou modifié;flight_status
+Quel est le statut de mon vol DL456;flight_status
+Est-ce que mon vol a été retardé ou modifié;flight_status
+Quand est-ce que mon vol arrive à destination;flight_status
+Pouvez-vous me dire si mon vol est maintenu ou annulé;flight_status
+Est-ce que mon vol est à l'heure prévue de départ;flight_status
+Je voudrais connaître l'heure d'arrivée estimée de mon vol;flight_status
+Y a-t-il des informations sur le vol BA567;flight_status
+Est-ce que mon vol est à l'heure selon le planning;flight_status
+Quand est-ce que mon vol UA876 décolle;flight_status
+Veuillez me donner les détails de mon vol AC789;flight_status
+Est-ce que mon vol a été retardé ou annulé;flight_status
+Je veux savoir si mon vol est confirmé pour cet après-midi;flight_status
+Quand est-ce que mon vol arrivera à ma destination;flight_status
+Pouvez-vous me dire si mon vol est annulé ou maintenu pour demain;flight_status
+Est-ce que mon vol est prévu à l'heure de départ;flight_status
+Je souhaite connaître l'heure de départ prévue de mon vol;flight_status
+Y a-t-il des mises à jour sur le vol LH789;flight_status
+Est-ce que mon vol est à l'heure comme prévu de départ;flight_status
+Je souhaite savoir si mon vol a été retardé ou annulé pour aujourd'hui;flight_status
+Quand est-ce que mon vol démarre à l'aéroport;flight_status
+Pouvez-vous me dire si mon vol est en retard ou à l'heure;flight_status
+Est-ce que mon vol est confirmé pour aujourd'hui à destination;flight_status
+Je veux savoir si mon vol a été annulé ou modifié pour demain;flight_status
+Quel est le statut de mon vol AF456;flight_status
+Est-ce que mon vol a été retardé ou modifié pour aujourd'hui;flight_status
+Quand est-ce que mon vol arrive à destination finale;flight_status
+Pouvez-vous me dire si mon vol est maintenu ou annulé pour demain matin;flight_status
+Est-ce que mon vol est à l'heure prévue de départ ce soir;flight_status
+Je voudrais connaître l'heure d'arrivée estimée de mon vol pour demain;flight_status
+Y a-t-il des informations sur le vol DL567;flight_status
+Est-ce que mon vol est à l'heure selon le planning prévu;flight_status
+Quand est-ce que mon vol UA345 décolle;flight_status
+Veuillez me donner les détails de mon vol AC567;flight_status
+Est-ce que mon vol a été retardé ou annulé pour demain matin;flight_status
+Je veux savoir si mon vol est confirmé pour cet après-midi à destination;flight_status
+Quand est-ce que mon vol arrivera à ma destination finale ce soir;flight_status
+Pouvez-vous me dire si mon vol est annulé ou maintenu pour demain soir;flight_status
+Est-ce que mon vol est prévu à l'heure de départ demain matin;flight_status
+Je souhaite connaître l'heure de départ prévue de mon vol pour cet après-midi;flight_status
+Y a-t-il des mises à jour sur le vol BA876;flight_status
+Est-ce que mon vol est à l'heure comme prévu de départ demain matin;flight_status
+Quand vais-je arriver à ma destination finale demain soir;flight_status
+Je souhaite savoir si mon vol a été retardé ou annulé pour aujourd'hui soir;flight_status
+Quand est-ce que mon vol démarre à l'aéroport demain matin;flight_status
+Pouvez-vous me dire si mon vol est en retard ou à l'heure demain matin;flight_status
+J'ai perdu mes bagages lors de mon vol pour Paris;lost_luggage
+Je ne trouve plus mes valises depuis mon arrivée à l'aéroport;lost_luggage
+Est-ce que vous pouvez m'aider à retrouver mes bagages égarés ?;lost_luggage
+J'ai un problème avec mes bagages, ils ne sont pas arrivés à destination;lost_luggage
+Je suis à l'hôtel mais mes valises n'ont pas suivi, que dois-je faire ?;lost_luggage
+Je crois que mes bagages ont été perdus pendant mon vol;lost_luggage
+Comment puis-je récupérer mes bagages qui ont été égarés ?;lost_luggage
+Je n'ai pas retrouvé mes valises à l'aéroport, que dois-je faire maintenant ?;lost_luggage
+Mes bagages sont manquants depuis mon vol avec Air France;lost_luggage
+Est-ce que vous pouvez me donner des informations sur la procédure de réclamation pour bagages perdus ?;lost_luggage
+Je ne sais pas où sont mes valises, pouvez-vous m'aider ?;lost_luggage
+Je viens de réaliser que mes bagages n'ont pas été déchargés de l'avion, que dois-je faire ?;lost_luggage
+Je ne trouve pas mes bagages depuis mon arrivée à l'aéroport, quelles sont les démarches à suivre ?;lost_luggage
+Je suis allé récupérer mes bagages à l'aéroport mais ils n'étaient pas là;lost_luggage
+Comment puis-je signaler la perte de mes bagages à la compagnie aérienne ?;lost_luggage
+J'ai perdu mes valises, que dois-je faire ?;lost_luggage
+Est-ce que vous avez des informations sur la localisation de mes bagages perdus ?;lost_luggage
+Je suis désolé mais je ne trouve plus mes bagages, pouvez-vous m'aider ?;lost_luggage
+J'ai pris un vol pour Rome mais mes bagages ne sont pas arrivés;lost_luggage
+Je suis à l'hôtel et je viens de réaliser que mes valises ne sont pas avec moi;lost_luggage
+Est-ce que vous pouvez m'indiquer où se trouvent mes bagages perdus ?;lost_luggage
+Mes bagages ont été égarés pendant mon vol avec Lufthansa;lost_luggage
+Je ne sais pas où sont mes valises, pouvez-vous m'aider à les retrouver ?;lost_luggage
+J'ai perdu mes bagages lors de mon vol pour New York;lost_luggage
+Je suis à l'aéroport mais je ne trouve pas mes valises, que dois-je faire ?;lost_luggage
+Est-ce que quelqu'un peut m'aider à retrouver mes bagages égarés ?;lost_luggage
+J'ai un problème avec mes bagages, ils ne sont pas arrivés à la destination prévue;lost_luggage
+Je suis à l'hôtel mais mes valises n'ont pas suivi, je ne sais pas quoi faire;lost_luggage
+Je pense que mes bagages ont été perdus pendant mon vol;lost_luggage
+Comment puis-je récupérer mes bagages qui ont été égarés lors de mon vol ?;lost_luggage
+Je n'ai pas retrouvé mes valises à l'aéroport, que dois-je faire maintenant pour les récupérer ?;lost_luggage
+Mes bagages sont manquants depuis mon vol avec British Airways;lost_luggage
+Est-ce que vous pouvez me donner des informations sur la procédure de réclamation pour des bagages perdus ?;lost_luggage
+Je ne sais pas où sont mes valises, pouvez-vous m'aider à les localiser ?;lost_luggage
+Je viens de réaliser que mes bagages n'ont pas été déchargés de l'avion, que dois-je faire pour les retrouver ?;lost_luggage
+Je ne trouve pas mes bagages depuis mon arrivée à l'aéroport, quelles sont les démarches que je dois entreprendre ?;lost_luggage
+Je suis allé récupérer mes bagages à l'aéroport mais ils n'étaient pas là, que faire maintenant ?;lost_luggage
+J'ai perdu mes valises, que dois-je faire pour les retrouver ?;lost_luggage
+Est-ce que vous avez des informations sur la localisation de mes bagages perdus avec Delta Airlines ?;lost_luggage
+Je suis désolé mais je ne trouve plus mes bagages, pouvez-vous me donner des conseils pour les retrouver ?;lost_luggage
+J'ai pris un vol pour Londres mais mes bagages ne sont pas arrivés, que dois-je faire ?;lost_luggage
+Je suis à l'hôtel et je viens de réaliser que mes valises ne sont pas avec moi, que faire maintenant ?;lost_luggage
+Est-ce que vous pouvez m'indiquer où se trouvent mes bagages perdus suite à mon vol avec United Airlines ?;lost_luggage
+Mes bagages ont été égarés pendant mon vol avec Air Canada;lost_luggage
+Je ne sais pas où sont mes valises, pouvez-vous m'aider à les retrouver suite à mon vol pour Madrid ?;lost_luggage
+J'ai perdu mes bagages lors de mon vol pour Barcelone;lost_luggage
+Je suis à l'aéroport mais je ne trouve pas mes valises, que dois-je faire pour les retrouver ?;lost_luggage
+Est-ce que quelqu'un peut m'aider à retrouver mes bagages égarés suite à mon vol avec Ryanair ?;lost_luggage
+J'ai un problème avec mes bagages, ils ne sont pas arrivés à la destination prévue suite à mon vol;lost_luggage
+Je suis à l'hôtel mais mes valises n'ont pas suivi, je ne sais pas quoi faire pour les retrouver;lost_luggage
+Je pense que mes bagages ont été perdus pendant mon vol vers Berlin;lost_luggage
+Comment puis-je récupérer mes bagages qui ont été égarés lors de mon vol vers Amsterdam ?;lost_luggage
+Je n'ai pas retrouvé mes valises à l'aéroport, que dois-je faire maintenant pour les récupérer après mon vol ?;lost_luggage
+Mes bagages sont manquants depuis mon vol avec Emirates;lost_luggage
+Est-ce que vous pouvez me donner des informations sur la procédure de réclamation pour des bagages perdus suite à mon vol pour Sydney ?;lost_luggage
+Je ne sais pas où sont mes valises, pouvez-vous m'aider à les localiser après mon vol avec Qatar Airways ?;lost_luggage
+Je viens de réaliser que mes bagages n'ont pas été déchargés de l'avion après mon vol pour Tokyo, que dois-je faire pour les retrouver ?;lost_luggage
+Je ne trouve pas mes bagages depuis mon arrivée à l'aéroport après mon vol vers Singapour, quelles sont les démarches que je dois entreprendre ?;lost_luggage
+Je suis allé récupérer mes bagages à l'aéroport mais ils n'étaient pas là après mon vol pour Séoul, que faire maintenant ?;lost_luggage
+Comment puis-je signaler la perte de mes bagages à la compagnie aérienne après mon vol pour Mexico ?;lost_luggage
+J'ai perdu mes valises, que dois-je faire pour les retrouver après mon vol pour Pékin ?;lost_luggage
+Est-ce que vous avez des informations sur la localisation de mes bagages perdus suite à mon vol avec Turkish Airlines ?;lost_luggage
+Je suis désolé mais je ne trouve plus mes bagages, pouvez-vous me donner des conseils pour les retrouver après mon vol pour Dubai ?;lost_luggage
+J'ai pris un vol pour New Delhi mais mes bagages ne sont pas arrivés, que dois-je faire pour les retrouver ?;lost_luggage
+Je suis à l'hôtel et je viens de réaliser que mes valises ne sont pas avec moi après mon vol pour Mumbai, que faire maintenant ?;lost_luggage
+Est-ce que vous pouvez m'indiquer où se trouvent mes bagages perdus suite à mon vol avec Cathay Pacific Airways ?;lost_luggage
+Mes bagages ont été égarés pendant mon vol avec Singapore Airlines, que dois-je faire pour les retrouver ?;lost_luggage
+Je ne sais pas où sont mes valises, pouvez-vous m'aider à les retrouver suite à mon vol pour Bangkok ?;lost_luggage
+J'ai perdu mes bagages lors de mon vol pour Jakarta;lost_luggage
+Je suis à l'aéroport mais je ne trouve pas mes valises, que faire pour les retrouver après mon vol pour Hong Kong ?;lost_luggage
+Est-ce que quelqu'un peut m'aider à retrouver mes bagages égarés suite à mon vol avec Thai Airways International ?;lost_luggage
+J'ai un problème avec mes bagages, ils ne sont pas arrivés à la destination prévue suite à mon vol pour Séoul;lost_luggage
+Je suis à l'hôtel mais mes valises n'ont pas suivi, je ne sais pas quoi faire pour les retrouver après mon vol pour Tokyo;lost_luggage
+Je pense que mes bagages ont été perdus pendant mon vol vers Singapour;lost_luggage
+Comment puis-je récupérer mes bagages qui ont été égarés lors de mon vol vers Bangkok avec EVA Air ?;lost_luggage
+Je n'ai pas retrouvé mes valises à l'aéroport, que dois-je faire maintenant pour les récupérer après mon vol pour Pékin ?;lost_luggage
+Mes bagages sont manquants depuis mon vol avec Etihad Airways, que dois-je faire pour les retrouver ?;lost_luggage
+Pouvez-vous me recommander des endroits à visiter à Paris;travel_suggestion
+Quels sont les meilleurs sites touristiques à Rome;travel_suggestion
+Je cherche des idées de vacances en famille en Thaïlande;travel_suggestion
+Je prévois un voyage à Barcelone, avez-vous des suggestions d'activités;travel_suggestion
+Quels sont les lieux incontournables à explorer à New York;travel_suggestion
+Je suis à la recherche d'une destination de randonnée pittoresque, avez-vous des recommandations;travel_suggestion
+Je cherche des plages tranquilles et isolées pour des vacances relaxantes, avez-vous des suggestions;travel_suggestion
+Je veux partir en safari en Afrique, quelles sont les meilleures destinations;travel_suggestion
+Quels sont les meilleurs spots de plongée sous-marine dans les Caraïbes;travel_suggestion
+Je suis intéressé par des voyages d'aventure, quelles sont les destinations recommandées;travel_suggestion
+Je veux explorer la culture asiatique, quelles sont les villes à visiter;travel_suggestion
+Je cherche des destinations pour un voyage romantique, pouvez-vous me donner des suggestions;travel_suggestion
+Quels sont les meilleurs festivals à ne pas manquer autour du monde;travel_suggestion
+Je suis à la recherche de destinations de voyage peu connues, avez-vous des recommandations;travel_suggestion
+Je veux découvrir la cuisine locale, où devrais-je aller;travel_suggestion
+Je prévois un voyage en Europe, quels sont les endroits les plus recommandés à visiter;travel_suggestion
+Je cherche des destinations pour des vacances à la plage, pouvez-vous m'aider;travel_suggestion
+Je souhaite faire un road trip en Amérique du Nord, quel itinéraire recommandez-vous;travel_suggestion
+Quels sont les meilleurs endroits pour observer les aurores boréales;travel_suggestion
+Je veux découvrir des paysages magnifiques, quelles sont les destinations recommandées;travel_suggestion
+Je suis à la recherche de destinations de voyage abordables, avez-vous des suggestions;travel_suggestion
+Je souhaite faire du tourisme historique, quels sont les endroits les plus intéressants à visiter;travel_suggestion
+Je suis intéressé par des destinations de ski, où devrais-je aller;travel_suggestion
+Je prévois un voyage en famille, quelles sont les destinations adaptées aux enfants;travel_suggestion
+Quelles sont les meilleures destinations pour un voyage en solo;travel_suggestion
+Je cherche des destinations pour des vacances relaxantes, pouvez-vous me suggérer;travel_suggestion
+Je souhaite faire une croisière, quelles sont les meilleures compagnies à choisir;travel_suggestion
+Je suis à la recherche de destinations pour des vacances sportives, pourriez-vous me recommander;travel_suggestion
+Je prévois une escapade romantique, quelles sont les destinations les plus recommandées;travel_suggestion
+Quels sont les meilleurs parcs nationaux à visiter dans mon pays;travel_suggestion
+Je veux découvrir des destinations de voyage uniques, avez-vous des suggestions;travel_suggestion
+Je suis intéressé par des voyages culinaires, quelles sont les destinations réputées pour leur cuisine;travel_suggestion
+Je cherche des destinations pour un voyage de lune de miel, pouvez-vous me donner des suggestions;travel_suggestion
+Je souhaite explorer des destinations exotiques, quelles sont les meilleures;travel_suggestion
+Je prévois un voyage en Amérique du Sud, quels sont les pays les plus recommandés à découvrir;travel_suggestion
+Je suis à la recherche de destinations pour un voyage de détente, avez-vous des recommandations;travel_suggestion
+Je veux faire du tourisme rural, où devrais-je aller;travel_suggestion
+Je souhaite visiter des châteaux et des palais, quelles sont les destinations à privilégier;travel_suggestion
+Je cherche des destinations pour des vacances en bord de mer, pouvez-vous me suggérer;travel_suggestion
+Je prévois un voyage autour du monde, quelles sont les villes incontournables à visiter;travel_suggestion
+Quels sont les meilleurs endroits pour faire du shopping à l'étranger;travel_suggestion
+Je suis à la recherche de destinations pour des vacances en montagne, avez-vous des suggestions;travel_suggestion
+Je veux explorer des sites archéologiques, quelles sont les destinations les plus intéressantes;travel_suggestion
+Je souhaite faire du camping, où devrais-je aller;travel_suggestion
+Je prévois un voyage en Asie, quelles sont les destinations les plus populaires;travel_suggestion
+Je cherche des destinations pour des vacances d'hiver, pouvez-vous me donner des suggestions;travel_suggestion
+Je suis intéressé par des voyages en croisière, quelles sont les meilleures destinations;travel_suggestion
+Je veux découvrir des destinations pour des vacances culturelles, avez-vous des recommandations;travel_suggestion
+Je souhaite visiter des parcs d'attractions, quelles sont les meilleures destinations à cet effet;travel_suggestion
+Je cherche des destinations pour des vacances en famille, pouvez-vous me suggérer;travel_suggestion
+Je prévois un voyage en Afrique, quels sont les pays recommandés à visiter;travel_suggestion
+Quels sont les meilleurs endroits pour observer la faune sauvage;travel_suggestion
+Je suis à la recherche de destinations de voyage pour des vacances romantiques, avez-vous des suggestions;travel_suggestion
+Je veux découvrir des destinations pour des vacances d'été, quelles sont les meilleures;travel_suggestion
+Je souhaite faire du trekking, où devrais-je aller;travel_suggestion
+Je prévois un voyage en Océanie, quelles sont les îles les plus recommandées à découvrir;travel_suggestion
+Je suis intéressé par des voyages pour observer les étoiles, quelles sont les destinations idéales;travel_suggestion
+Je cherche des destinations pour des vacances zen, pouvez-vous me recommander;travel_suggestion
+Je souhaite visiter des sites classés au patrimoine mondial de l'UNESCO, quelles sont les destinations à privilégier;travel_suggestion
+Je cherche des destinations pour des vacances en solo, pouvez-vous me suggérer;travel_suggestion
+Je prévois un voyage en Amérique du Sud, quels sont les endroits les plus recommandés à visiter;travel_suggestion
+Quels sont les meilleurs endroits pour faire du ski;travel_suggestion
+Je suis à la recherche de destinations pour des vacances en bord de mer, avez-vous des suggestions;travel_suggestion
+Je veux découvrir des destinations pour un voyage d'aventure, quelles sont les meilleures;travel_suggestion
+Je souhaite visiter des musées, quelles sont les villes à privilégier;travel_suggestion
+Je cherche des destinations pour des vacances en famille, pouvez-vous me recommander;travel_suggestion
+Je prévois un voyage en Asie, quels sont les pays les plus recommandés à visiter;travel_suggestion
+Quels sont les meilleures destinations pour faire du surf;travel_suggestion
+Je suis à la recherche de destinations pour des vacances d'hiver, avez-vous des suggestions;travel_suggestion
+Je veux découvrir des destinations pour des vacances gastronomiques, quelles sont les meilleures;travel_suggestion
+Je souhaite faire du shopping à l'étranger, où devrais-je aller;travel_suggestion
+Je cherche des destinations pour des vacances en montagne, pouvez-vous me suggérer;travel_suggestion
+Je prévois un voyage en Europe, quelles sont les villes les plus populaires à visiter;travel_suggestion
+Quels sont les meilleurs endroits pour faire de la plongée sous-marine;travel_suggestion
+Je suis à la recherche de destinations pour des vacances détente, avez-vous des recommandations;travel_suggestion
+Je veux découvrir des destinations pour des vacances en famille, quelles sont les meilleures;travel_suggestion
+Je souhaite faire du tourisme rural, où devrais-je aller;travel_suggestion
+Je cherche des endroits pour vivre une expérience de vie sauvage, pouvez-vous me recommander;travel_suggestion
+Je prévois un voyage en Asie, quels sont les pays les plus recommandés à découvrir;travel_suggestion
+Quels sont les meilleurs endroits pour le tourisme religieux;travel_suggestion
+Je suis à la recherche de destinations de voyage pour des vacances d'été, avez-vous des suggestions;travel_suggestion
+Je veux découvrir des destinations pour des vacances sportives, quelles sont les meilleures;travel_suggestion
+Je souhaite visiter des parcs naturels, quels sont les plus beaux à privilégier;travel_suggestion
+Je prévois un voyage aux États-Unis, quels sont les endroits les plus recommandés à visiter;travel_suggestion
+Quelle est la politique de bagages à main pour un vol avec Air France;carry_on
+Peut-on emporter des liquides en cabine avec Ryanair;carry_on
+Est-ce que je peux prendre un parfum en bagage à main;carry_on
+Combien de bagages à main puis-je emporter avec moi sur un vol international;carry_on
+Quelle est la taille maximale pour un bagage à main sur un vol avec Emirates;carry_on
+Est-ce que les compagnies aériennes autorisent les instruments de musique en cabine;carry_on
+Ai-je besoin de mettre mes médicaments en bagage à main;carry_on
+Quels sont les articles interdits en cabine;carry_on
+Puis-je emporter une valise à roulettes en cabine;carry_on
+Est-ce que je peux apporter de la nourriture en bagage à main;carry_on
+Quelle est la limite de poids pour un bagage à main sur un vol national;carry_on
+Y a-t-il des restrictions pour les objets tranchants en cabine;carry_on
+Est-ce que je peux prendre mes produits de beauté en cabine;carry_on
+Quelles sont les règles pour les bouteilles d'alcool en cabine;carry_on
+Est-ce que je peux emporter mon ordinateur portable en bagage à main;carry_on
+Combien de bagages à main puis-je prendre sur un vol domestique avec Delta Airlines;carry_on
+Quelle est la politique de bagages à main pour un vol avec British Airways;carry_on
+Est-ce que je peux prendre des fruits en cabine;carry_on
+Quels sont les objets interdits en bagage à main;carry_on
+Est-ce que je peux emporter des piles en cabine;carry_on
+Ai-je besoin d'un bagage enregistré en plus de mon bagage à main;carry_on
+Quelle est la taille maximale pour un sac à dos en cabine;carry_on
+Est-ce que je peux emporter des animaux en cabine;carry_on
+Y a-t-il une limite de taille pour mon bagage à main sur un vol avec Qantas;carry_on
+Est-ce que je peux prendre mon appareil photo en cabine;carry_on
+Quelles sont les règles pour les cigarettes électroniques en cabine;carry_on
+Puis-je emporter une trousse de toilette en cabine;carry_on
+Est-ce que je peux emporter des médicaments liquides en cabine;carry_on
+Quelle est la politique de bagages à main pour un vol avec Lufthansa;carry_on
+Est-ce que je peux prendre une poussette en cabine;carry_on
+Quels sont les articles interdits dans un bagage à main;carry_on
+Est-ce que je peux emporter une planche de surf en cabine;carry_on
+Y a-t-il une limite de quantité pour les liquides en cabine;carry_on
+Est-ce que je peux apporter mon couteau suisse en bagage à main;carry_on
+Combien de bagages à main puis-je emporter avec moi sur un vol national;carry_on
+Quelle est la taille maximale pour une valise en cabine;carry_on
+Est-ce que je peux emporter des cadeaux en cabine;carry_on
+Est-ce que je peux emporter des médicaments en cabine;carry_on
+Quelle est la politique de bagages à main pour un vol avec Singapore Airlines;carry_on
+Est-ce que je peux prendre mon parapluie en cabine;carry_on
+Quels sont les articles interdits dans un bagage à main sur un vol international;carry_on
+Est-ce que je peux emporter une bouteille d'eau en cabine;carry_on
+Y a-t-il une limite de poids pour mon bagage à main sur un vol avec United Airlines;carry_on
+Est-ce que je peux prendre des chocolats en cabine;carry_on
+Combien de bagages à main puis-je prendre sur un vol international avec Air Canada;carry_on
+Quelle est la politique de bagages à main pour un vol avec Cathay Pacific;carry_on
+Est-ce que je peux emporter des cosmétiques en cabine;carry_on
+Puis-je emporter mon casque audio en bagage à main;carry_on
+Quelle est la taille maximale pour un sac de voyage en cabine;carry_on
+Est-ce que je peux emporter des animaux domestiques en cabine;carry_on
+Y a-t-il une limite de taille pour mon bagage à main sur un vol avec Etihad Airways;carry_on
+Est-ce que je peux prendre mon livre en cabine;carry_on
+Quelles sont les règles pour les briquets en cabine;carry_on
+Puis-je emporter une bouteille de vin en cabine;carry_on
+Est-ce que je peux emporter mon drone en cabine;carry_on
+Quelle est la politique de bagages à main pour un vol avec EasyJet;carry_on
+Est-ce que je peux prendre ma trousse de premiers soins en cabine;carry_on
+Quels sont les articles interdits dans un bagage à main sur un vol national;carry_on
+Est-ce que je peux emporter une tente en cabine;carry_on
+Y a-t-il une limite de liquides pour mon bagage à main;carry_on
+Est-ce que je peux apporter des médicaments en poudre en cabine;carry_on
+Combien de bagages à main puis-je emporter avec moi sur un vol avec Japan Airlines;carry_on
+Quelle est la politique de bagages à main pour un vol avec Turkish Airlines;carry_on
+Est-ce que je peux emporter des fruits secs en cabine;carry_on
+Ai-je besoin de retirer mes écouteurs pendant le décollage;carry_on
+Quelle est la taille maximale pour un sac de sport en cabine;carry_on
+Est-ce que je peux emporter des insectes en cabine;carry_on
+Y a-t-il une limite de taille pour mon bagage à main sur un vol avec Delta Airlines;carry_on
+Est-ce que je peux prendre mon livre électronique en cabine;carry_on
+Quelles sont les règles pour les aérosols en cabine;carry_on
+Puis-je emporter une bouteille d'alcool en cabine;carry_on
+Est-ce que je peux emporter mon hoverboard en cabine;carry_on
+Quelle est la politique de bagages à main pour un vol avec Swiss International Airlines;carry_on
+Est-ce que je peux prendre mes lunettes de soleil en cabine;carry_on
+Est-ce que je peux emporter une bouteille d'huile en cabine;carry_on
+Y a-t-il une limite de poids pour mon bagage à main sur un vol avec American Airlines;carry_on
+Est-ce que je peux prendre des bonbons en cabine;carry_on
+Combien de bagages à main puis-je prendre sur un vol domestique avec Southwest Airlines;carry_on
+Quelle est la politique de bagages à main pour un vol avec Virgin Atlantic;carry_on
+Est-ce que je peux emporter des médicaments en sirop en cabine;carry_on
+Puis-je emporter mon rasoir en bagage à main;carry_on
+Quelle est la taille maximale pour un sac à main en cabine;carry_on
+Est-ce que je peux emporter des animaux exotiques en cabine;carry_on
+Y a-t-il une limite de taille pour mon bagage à main sur un vol avec Air Canada;carry_on
+Est-ce que je peux prendre mes écouteurs en cabine;carry_on
+Quelles sont les règles pour les produits de beauté en cabine;carry_on
+Puis-je emporter mon parfum en bagage à main;carry_on
+Est-ce que je peux emporter mon skateboard en cabine;carry_on
+Quelle est la politique de bagages à main pour un vol avec Ryanair;carry_on
+Est-ce que je peux prendre ma crème solaire en cabine;carry_on
+Est-ce que je peux emporter une guitare en cabine;carry_on
+Y a-t-il une limite de volume pour les liquides en cabine;carry_on
+Est-ce que je peux apporter des médicaments en comprimés en cabine;carry_on
+Je cherche un hôtel abordable à Paris;book_hotel
+Réservez une chambre double pour deux nuits à Barcelone;book_hotel
+J'aimerais réserver un hôtel proche de la plage à Miami;book_hotel
+Pouvez-vous trouver un hôtel bien noté à Rome ?;book_hotel
+Je cherche un hébergement pour une semaine à Londres;book_hotel
+Aidez-moi à trouver un hôtel avec parking à Tokyo;book_hotel
+Je voudrais réserver un hôtel pour le week-end à Cancun;book_hotel
+Est-ce que vous pouvez m'aider à trouver un hôtel à Berlin ?;book_hotel
+Réservez une chambre simple pour une nuit à New York;book_hotel
+Je cherche un hôtel avec une vue sur la mer à Nice;book_hotel
+Pouvez-vous me recommander un bon hôtel à Sydney ?;book_hotel
+Réservez une suite de luxe pour deux personnes à Las Vegas;book_hotel
+Je voudrais réserver un hôtel pour une nuit à Amsterdam;book_hotel
+Est-ce que vous pouvez m'aider à trouver un hôtel à San Francisco ?;book_hotel
+Je cherche un hébergement abordable à Bangkok;book_hotel
+Réservez une chambre avec balcon à Barcelone;book_hotel
+J'aimerais réserver un hôtel proche du centre-ville à Paris;book_hotel
+Pouvez-vous trouver un hôtel bien situé à Rome ?;book_hotel
+Je cherche un hébergement pour une semaine à New York;book_hotel
+Aidez-moi à trouver un hôtel avec piscine à Miami;book_hotel
+Je voudrais réserver un hôtel pour le week-end à Londres;book_hotel
+Est-ce que vous pouvez m'aider à trouver un hôtel à Tokyo ?;book_hotel
+Réservez une chambre double pour une nuit à Cancun;book_hotel
+Je cherche un hôtel avec vue sur la Tour Eiffel à Paris;book_hotel
+Pouvez-vous me recommander un bon hôtel à Barcelone ?;book_hotel
+Réservez une suite de luxe pour deux personnes à New York;book_hotel
+Je voudrais réserver un hôtel pour une nuit à Las Vegas;book_hotel
+Est-ce que vous pouvez m'aider à trouver un hôtel à Los Angeles ?;book_hotel
+Je cherche un hébergement abordable à Paris;book_hotel
+Réservez une chambre simple avec vue sur la mer à Nice;book_hotel
+Je souhaite réserver un vol aller simple de Paris à New York;book_flight
+Réservez-moi un vol de Londres à Rome pour la fin du mois;book_flight
+Je voudrais réserver un billet d'avion pour Tokyo;book_flight
+Quels sont les vols disponibles de Madrid à Barcelone ?;book_flight
+J'ai besoin de trouver un vol aller-retour de Berlin à Paris;book_flight
+Je recherche des vols pour Miami au départ de Los Angeles;book_flight
+Est-ce que vous pouvez me trouver un vol pour Sydney ?;book_flight
+Je veux réserver un vol de San Francisco à Las Vegas;book_flight
+Je souhaite voyager de Montréal à Vancouver en avion;book_flight
+Réservez-moi un vol aller-retour de Toronto à Calgary;book_flight
+Je voudrais réserver un billet d'avion pour Auckland;book_flight
+Quels sont les vols disponibles de Sydney à Melbourne ?;book_flight
+J'ai besoin de trouver un vol aller-retour de Rome à Paris;book_flight
+Je recherche des vols pour Rio de Janeiro au départ de São Paulo;book_flight
+Est-ce que vous pouvez me trouver un vol pour Cancun ?;book_flight
+Je veux réserver un vol de New York à Miami;book_flight
+Je souhaite voyager de Vancouver à Toronto en avion;book_flight
+Réservez-moi un vol aller-retour de Calgary à Montréal;book_flight
+Je voudrais réserver un billet d'avion pour Paris;book_flight
+Quels sont les vols disponibles de Melbourne à Sydney ?;book_flight
+J'ai besoin de trouver un vol aller-retour de Lima à Cusco;book_flight
+Je recherche des vols pour Buenos Aires au départ de Santiago;book_flight
+Est-ce que vous pouvez me trouver un vol pour Bali ?;book_flight
+Je veux réserver un vol de Los Angeles à San Francisco;book_flight
+Je souhaite voyager de Toronto à Vancouver en avion;book_flight
+Réservez-moi un vol aller-retour de Montréal à Calgary;book_flight
+Je voudrais réserver un billet d'avion pour Rome;book_flight
+Quels sont les vols disponibles de Santiago à Buenos Aires ?;book_flight
+J'ai besoin de trouver un vol aller-retour de Cusco à Lima;book_flight
+Je recherche des vols pour Sydney au départ de Melbourne;book_flight
+Est-ce que vous pouvez me trouver un vol pour Tokyo ?;book_flight
+Je veux réserver un vol de Miami à New York;book_flight
+Quelle est la meilleure marque de voiture ?;out_of_scope
+Qui a remporté la Coupe du Monde de football en 1998 ?;out_of_scope
+Quelle est la durée de vie d'un hamster ?;out_of_scope
+Quelle est la recette du gâteau au chocolat ?;out_of_scope
+Quel est le meilleur restaurant de sushi en ville ?;out_of_scope
+Comment réparer une fuite d'eau dans une canalisation ?;out_of_scope
+Quel est le dernier album de Beyoncé ?;out_of_scope
+Quel est le film le plus long de tous les temps ?;out_of_scope
+Quelle est la température de cuisson du poulet ?;out_of_scope
+Quel est le meilleur moment pour planter des fleurs ?;out_of_scope
+Comment fonctionne le moteur d'une voiture électrique ?;out_of_scope
+Quel est le score actuel du match de football ?;out_of_scope
+Quel est le nom de l'acteur qui joue le rôle principal dans le film Titanic ?;out_of_scope
+Quelle est la taille moyenne d'une baleine bleue ?;out_of_scope
+Quelle est la différence entre un virus et une bactérie ?;out_of_scope
+Quel est le meilleur moment pour visiter les chutes du Niagara ?;out_of_scope
+Quel est le film le plus récompensé aux Oscars de tous les temps ?;out_of_scope
+Quel est le pays le plus peuplé au monde ?;out_of_scope
+Quelle est la distance entre Paris et New York en avion ?;out_of_scope
+Quel est le meilleur moyen de transport pour se rendre à Rome ?;out_of_scope
+Comment faire pour nettoyer une tache de vin rouge sur un tapis ?;out_of_scope
+Quelle est la hauteur de l'Empire State Building ?;out_of_scope
+Quelle est la couleur des cheveux naturelle de Marilyn Monroe ?;out_of_scope
+Quelle est la date de sortie du prochain film de Marvel ?;out_of_scope
+Comment réparer un pneu crevé sur un vélo ?;out_of_scope
+Quel est le meilleur moment pour faire du ski en Suisse ?;out_of_scope
+Quelle est la durée de vie moyenne d'un chien ?;out_of_scope
+Quel est le meilleur livre de science-fiction de tous les temps ?;out_of_scope
+Quel est le nom du président actuel de l'Union Européenne ?;out_of_scope
+Quelle est la capitale de l'Australie ?;out_of_scope
+Comment faire pour démarrer une entreprise ?;out_of_scope
+Quel est le meilleur moment pour visiter la Grande Muraille de Chine ?;out_of_scope
+Quelle est la durée de cuisson des pâtes ?;out_of_scope
+Quel est le meilleur film d'horreur de tous les temps ?;out_of_scope
+Comment faire pour résoudre un Rubik's Cube ?;out_of_scope
+Quelle est la date de sortie du prochain iPhone ?;out_of_scope
+Quel est le plus grand océan du monde ?;out_of_scope
+Quelle est la meilleure marque de café ?;out_of_scope
+Comment faire pour monter une étagère ?;out_of_scope
+Quelle est la longueur du pont Golden Gate à San Francisco ?;out_of_scope
+Quelle est la meilleure série télévisée de tous les temps ?;out_of_scope
+Quel est le meilleur moment pour visiter les pyramides d'Égypte ?;out_of_scope
+Quelle est la durée de vie d'une tortue terrestre ?;out_of_scope
+Quelle est la différence entre un hôtel et une auberge de jeunesse ?;out_of_scope
+Quel est le meilleur moment pour se rendre à la plage ?;out_of_scope
+Quelle est la date de sortie du prochain livre de Stephen King ?;out_of_scope
+Comment faire pour réparer une fuite d'huile sur une voiture ?;out_of_scope
+Quelle est la hauteur du mont Everest ?;out_of_scope
+Quelle est la couleur naturelle des yeux de Rihanna ?;out_of_scope
+Quelle est la date de sortie du prochain jeu vidéo de la série Call of Duty ?;out_of_scope
+Comment faire pour apprendre à jouer du piano ?;out_of_scope
+Quelle est la température de cuisson d'un steak saignant ?;out_of_scope
+Quel est le meilleur moment pour visiter les ruines de Machu Picchu au Pérou ?;out_of_scope
+Quelle est la durée de vie moyenne d'un chat ?;out_of_scope
+Quel est le meilleur livre de fantasy de tous les temps ?;out_of_scope
+Quel est le nom de la personne qui a inventé internet ?;out_of_scope
+Quelle est la capitale de l'Inde ?;out_of_scope
+Comment faire pour créer un site web ?;out_of_scope
+Quel est le meilleur moment pour visiter le parc national de Yellowstone aux États-Unis ?;out_of_scope
+Quelle est la durée de cuisson d'un œuf à la coque ?;out_of_scope
+Quel est le meilleur film de science-fiction de tous les temps ?;out_of_scope
+Comment faire pour planter un arbre ?;out_of_scope
+Quelle est la profondeur de l'océan Pacifique ?;out_of_scope
+Quelle est la meilleure marque de thé ?;out_of_scope
+Comment faire pour monter une tente de camping ?;out_of_scope
+Quelle est la longueur du pont du Gard en France ?;out_of_scope
+Quelle est la meilleure série dramatique de tous les temps ?;out_of_scope
+Quel est le meilleur moment pour visiter le Taj Mahal en Inde ?;out_of_scope
+Quelle est la durée de vie moyenne d'un perroquet ?;out_of_scope
+Quel est le meilleur livre d'aventure de tous les temps ?;out_of_scope
+Quel est le nom du scientifique qui a découvert la théorie de la relativité ?;out_of_scope
+Quelle est la capitale des États-Unis ?;out_of_scope
+Comment faire pour réparer une fuite d'eau dans un robinet ?;out_of_scope
+Quelle est la hauteur de la tour Eiffel à Paris ?;out_of_scope
+Quelle est la couleur naturelle des cheveux de Brad Pitt ?;out_of_scope
+Quelle est la date de sortie du prochain album de Taylor Swift ?;out_of_scope
+Comment faire pour nettoyer une tache de vin sur un tissu ?;out_of_scope
+Quelle est la température de cuisson d'un poulet rôti ?;out_of_scope
+Quel est le meilleur moment pour visiter les temples d'Angkor au Cambodge ?;out_of_scope
+Quelle est la durée de vie moyenne d'un lapin domestique ?;out_of_scope
+Quel est le meilleur livre de thriller de tous les temps ?;out_of_scope
+Quel est le nom de la personne qui a inventé l'imprimerie ?;out_of_scope
+Quelle est la capitale de la Chine ?;out_of_scope
+Comment faire pour apprendre à coder ?;out_of_scope
+Quel est le meilleur moment pour visiter le parc national de Yosemite aux États-Unis ?;out_of_scope
+Quelle est la durée de cuisson d'un gâteau au chocolat ?;out_of_scope
+Quel est le meilleur film d'action de tous les temps ?;out_of_scope
+Comment faire pour réparer une fuite d'eau dans un tuyau ?;out_of_scope
+Quelle est la profondeur de la fosse des Mariannes ?;out_of_scope
+Quelle est la meilleure marque de chocolat ?;out_of_scope
+Pouvez-vous traduire cette phrase en italien : «Où se trouve la gare ?»;translate
+Je veux savoir comment on dit «Je voudrais une chambre pour deux personnes» en allemand;translate
+Si je suis en Chine, comment puis-je demander où se trouve la station de métro ?;translate
+Comment dit-on «Excusez-moi, où puis-je trouver un bon restaurant ?» en japonais ?;translate
+J'ai besoin de savoir comment dire «Je cherche la plage» en espagnol;translate
+Pouvez-vous me dire comment on dit «Je veux acheter un souvenir» en russe ?;translate
+Comment dit-on «Je suis perdu, pouvez-vous m'aider à trouver mon chemin ?» en anglais ?;translate
+Veuillez traduire cette phrase en français : «Où est la station de bus la plus proche ?»;translate
+Je voudrais savoir comment dire «Combien coûte cette excursion ?» en allemand;translate
+Si je vais au Brésil, comment puis-je demander «Où puis-je trouver un bureau de change ?» en portugais ?;translate
+Comment dit-on «Pourriez-vous recommander un bon restaurant ?» en italien ?;translate
+J'ai besoin de savoir comment dire «Je suis allergique aux fruits de mer» en espagnol;translate
+Pouvez-vous me dire comment on dit «Je voudrais un billet aller-retour» en français ?;translate
+Comment dit-on «Je cherche une pharmacie» en russe ?;translate
+Veuillez traduire cette phrase en anglais : «Où puis-je trouver un bureau de tourisme ?»;translate
+Je voudrais savoir comment dire «Combien coûte cette visite guidée ?» en allemand;translate
+Si je vais en Corée du Sud, comment puis-je demander «Où est l'hôtel le plus proche ?» en coréen ?;translate
+Comment dit-on «Pourriez-vous me recommander un bon restaurant ?» en japonais ?;translate
+J'ai besoin de savoir comment dire «Je ne mange pas de viande» en espagnol;translate
+Pouvez-vous me dire comment on dit «Je voudrais une carte de la ville» en russe ?;translate
+À quelle heure est prévu l'embarquement pour mon vol;flight_status
+Quand est-ce que je vais décoller pour mon vol;flight_status
+Je voudrais connaître l'horaire de mon vol;flight_status
+Pouvez-vous me dire si mon vol est à l'heure;flight_status
+Je souhaite vérifier l'état de mon vol;flight_status
+Quand est-ce que mon vol va partir;flight_status
+Quand vais-je pouvoir monter à bord de mon vol;flight_status
+Est-ce que mon vol est retardé;flight_status
+Quand est-ce que mon avion va atterrir;flight_status
+Quand est-ce que mon vol va atterrir;flight_status
+Quand est-ce que nous allons atterrir;flight_status
+Quel est le numéro de vol pour mon vol;flight_status
+Quand vais-je arriver à l'aéroport;flight_status
+Quand vais-je partir pour mon vol;flight_status
+Quand vais-je quitter mon lieu de départ;flight_status
+Quand vais-je arriver à la destination;flight_status
+Quand mon vol sera-t-il prêt à décoller;flight_status
+Quelle est la porte d'embarquement pour mon vol;flight_status
+Quand est-ce que mon vol va-at-il décoller;flight_status
+Quand est-ce que nous allons monter à bord de l'avion;flight_status
+Quand est-ce que je vais arriver à mon lieu de destination;flight_status
+Je prévois de voyager à New York, que me conseillez-vous de faire là-bas?;travel_suggestion
+Quelles sont les attractions touristiques populaires à Paris?;travel_suggestion
+Je vais à Rome le mois prochain, quels sont les endroits que je ne devrais pas manquer?;travel_suggestion
+Y a-t-il des plages magnifiques à visiter à Hawaï?;travel_suggestion
+Pouvez-vous me donner des suggestions pour des randonnées en montagne en Suisse?;travel_suggestion
+J'aimerais visiter des châteaux en Allemagne, quels sont les plus beaux châteaux à voir?;travel_suggestion
+Quelles sont les meilleures activités à faire à Barcelone?;travel_suggestion
+Je vais à Londres pour la première fois, quelles sont les attractions incontournables?;travel_suggestion
+Existe-t-il des excursions en bateau intéressantes aux Maldives?;travel_suggestion
+Quels sont les meilleurs endroits pour faire de la plongée en Thaïlande?;travel_suggestion
+Je cherche des idées de visites culturelles à Mexico, que recommandez-vous?;travel_suggestion
+Quels sont les parcs nationaux les plus beaux à visiter aux États-Unis?;travel_suggestion
+Je veux découvrir la cuisine locale en Inde, quels sont les plats typiques à essayer?;travel_suggestion
+Je vais à Sydney, avez-vous des recommandations pour des activités en plein air?;travel_suggestion
+Existe-t-il des festivals traditionnels intéressants au Japon?;travel_suggestion
+Je suis intéressé par l'histoire de l'Égypte, quels sont les sites archéologiques à visiter?;travel_suggestion
+Y a-t-il des safaris passionnants à faire en Afrique du Sud?;travel_suggestion
+Quelles sont les meilleures destinations pour observer les aurores boréales?;travel_suggestion
+Je vais à Bali, quels sont les endroits les plus pittoresques à voir?;travel_suggestion
+Existe-t-il des stations de ski populaires en Suisse?;travel_suggestion
+Puis-je emporter une petite valise à main avec moi dans l'avion;carry_on
+Quelle est la taille maximale autorisée pour le bagage à main;carry_on
+Est-ce que je peux prendre mon sac à dos en cabine;carry_on
+Quelles sont les dimensions acceptables pour le bagage à main;carry_on
+Est-ce que je peux emporter un sac à provisions en cabine;carry_on
+Dois-je mettre mon bagage à main dans le compartiment au-dessus de moi;carry_on
+Est-ce que je peux prendre mon sac à main avec moi dans l'avion;carry_on
+Quelle est la politique concernant les bagages à main pour les vols internationaux;carry_on
+Est-ce que je peux transporter mon ordinateur portable dans le bagage à main;carry_on
+Y a-t-il des restrictions pour les liquides dans le bagage à main;carry_on
+Est-ce que je peux emporter mon trépied en cabine;carry_on
+Combien de sacs à main puis-je prendre dans l'avion;carry_on
+Quelle est la limite de poids pour le bagage à main;carry_on
+Est-ce que je peux emporter des médicaments dans le bagage à main;carry_on
+Est-ce que je peux prendre mon sac de sport avec moi en cabine;carry_on
+Y a-t-il une limite de taille pour le bagage à main;carry_on
+Dois-je payer un supplément pour mon bagage à main;carry_on
+Quelles sont les règles pour les objets tranchants dans le bagage à main;carry_on
+Est-ce que je peux emporter ma guitare en cabine;carry_on
+Combien de bagages à main puis-je prendre sur un vol national;carry_on
+Quelle est la compagnie aérienne avec la politique la plus flexible pour les bagages à main;carry_on
+Est-ce que je peux emporter une poussette en cabine;carry_on
+Combien de temps avant le vol dois-je arriver pour enregistrer mon bagage à main;carry_on
+Je voudrais savoir comment dire «bonjour» en espagnol;translate
+Pouvez-vous me traduire cette phrase: «Je cherche un restaurant près d'ici» en allemand;translate
+Comment dit-on «merci» en japonais;translate
+Je souhaiterais savoir comment demander une direction en russe;translate
+Pouvez-vous me traduire cette expression: «Je ne comprends pas» en chinois;translate
+J'aimerais savoir comment dire «s'il vous plaît» en suédois;translate
+Comment dit-on «excusez-moi» en néerlandais;translate
+Je voudrais connaître la traduction de cette phrase: «Où est la gare» en italien;translate
+Pouvez-vous me dire comment dire «au revoir» en arabe;translate
+Comment dit-on «comment ça va» en anglais;translate
+Je voudrais savoir comment demander un menu en français;translate
+Pouvez-vous me traduire cette expression: «Je suis perdu» en espagnol;translate
+Comment dit-on «je t'aime» en allemand;translate
+Je souhaiterais connaître la traduction de cette phrase: «Je vais à la plage» en portugais;translate
+Pouvez-vous me dire comment dire «bon appétit» en italien;translate
+Comment dit-on «bonne journée» en russe;translate
+Je voudrais savoir comment demander l'addition en japonais;translate
+Pouvez-vous me traduire cette expression: «Je suis désolé» en chinois;translate
+J'aimerais savoir comment dire «merci beaucoup» en suédois;translate
+Comment dit-on «pardon» en néerlandais;translate
+Je voudrais connaître la traduction de cette phrase: «Où est l'hôtel» en italien;translate
+Pouvez-vous me dire comment dire «bienvenue» en arabe;translate
+Comment dit-on «comment ça s'écrit» en anglais;translate
+Y a-t-il des alertes de voyage pour l'Inde;travel_alert
+Est-il sûr de visiter le Brésil en ce moment;travel_alert
+Quelles sont les alertes de voyage pour le Japon;travel_alert
+Existe-t-il une alerte de voyage pour le Mexique;travel_alert
+Devrais-je être conscient des alertes de voyage pour l'Italie;travel_alert
+Sont-il y a des alertes de voyage pour la Grèce;travel_alert
+Existe-t-il une alerte de voyage pour la Chine;travel_alert
+Y a-t-il des alertes de voyage pour l'Espagne;travel_alert
+Est-il sûr de se rendre en Thaïlande;travel_alert
+La France a-t-elle des alertes de voyage que je devrais connaître;travel_alert
+Parlez-moi des alertes de voyage émises pour le Royaume-Uni;travel_alert
+Y a-t-il une alerte de voyage pour le Canada;travel_alert
+Existe-t-il une alerte de voyage pour la Nouvelle-Zélande;travel_alert
+Devrais-je être conscient des alertes de voyage pour les États-Unis;travel_alert
+Sont-il y a des alertes de voyage pour l'Argentine;travel_alert
+Quelles sont les alertes de voyage pour le Portugal;travel_alert
+Existe-t-il une alerte de voyage pour la Turquie;travel_alert
+Y a-t-il des alertes de voyage pour le Maroc;travel_alert
+Est-il sûr de se rendre en Afrique du Sud;travel_alert
+La Thaïlande a-t-elle des alertes de voyage que je devrais connaître;travel_alert
+Parlez-moi des alertes de voyage émises pour l'Indonésie;travel_alert
+Y a-t-il une alerte de voyage pour l'Autriche;travel_alert
+Quel est l'état de mon vol;flight_status
+A quelle heure mon vol est-il programmé;flight_status
+Puis-je obtenir des informations sur mon vol;flight_status
+Quand est-ce que le vol QR456 va décoller;flight_status
+Y a-t-il une mise à jour sur le vol AF789;flight_status
+Est-ce que mon vol BA234 a été annulé;flight_status
+A quelle heure est-ce que mon vol LH567 va atterrir;flight_status
+Quand est-ce que mon vol MX890 va partir;flight_status
+Est-ce que le vol TK123 est retardé;flight_status
+Quand est-ce que mon vol sera affiché;flight_status
+Y a-t-il des changements sur le vol EK345;flight_status
+Est-ce que mon vol est sur le point de partir;flight_status
+Quand est-ce que mon vol sera prêt à embarquer;flight_status
+Quand est-ce que mon vol va décoller;flight_status
+Est-ce que mon vol a été modifié;flight_status
+Est-ce que mon vol sera à l'heure;flight_status
+Quand est-ce que mon vol est prévu;flight_status
+Y a-t-il des retards sur le vol UA567;flight_status
+Est-ce que mon vol a été reprogrammé;flight_status
+Y a-t-il des changements sur le vol AC789;flight_status
+Est-ce que mon vol a été annulé;flight_status
+Je ne retrouve pas mes bagages à l'aéroport;lost_luggage
+J'ai égaré ma valise dans le train;lost_luggage
+Où puis-je signaler la perte de mes bagages ?;lost_luggage
+Je cherche mes bagages perdus depuis une semaine;lost_luggage
+Comment puis-je récupérer mes valises égarées ?;lost_luggage
+Je suis désemparé car mes bagages ont disparu;lost_luggage
+Je suis en vacances et je ne trouve plus mes bagages;lost_luggage
+Est-ce que quelqu'un peut m'aider à trouver mes valises perdues ?;lost_luggage
+Je suis inquiet car mes affaires sont dans ma valise égarée;lost_luggage
+J'ai besoin d'aide pour retrouver mes bagages manquants;lost_luggage
+Je suis perdu sans mes bagages;lost_luggage
+Mes bagages ont été égarés lors de mon vol;lost_luggage
+Je ne sais pas où sont mes valises;lost_luggage
+J'ai peur d'avoir perdu mes bagages;lost_luggage
+Je suis arrivé à destination mais mes bagages ne sont pas là;lost_luggage
+Je ne trouve pas ma valise depuis que je suis arrivé à l'hôtel;lost_luggage
+Mes bagages ont été égarés pendant mon voyage en train;lost_luggage
+Je ne sais pas comment signaler la perte de mes bagages;lost_luggage
+Est-ce que quelqu'un a vu ma valise ?;lost_luggage
+Je suis en panique car je ne retrouve pas ma valise;lost_luggage
+Je suis en colère car mes bagages ont été perdus;lost_luggage
+Comment faire pour retrouver mes bagages égarés ?;lost_luggage
+Je suis désespéré sans mes affaires;lost_luggage
+Mes valises ont disparu lors de mon voyage;lost_luggage
+Je suis déçu car mes bagages ne sont pas arrivés à bon port;lost_luggage
+Quels sont les endroits incontournables à visiter à Paris;travel_suggestion
+Je cherche des activités familiales à faire à Londres;travel_suggestion
+Pouvez-vous me recommander des plages en Thaïlande;travel_suggestion
+Je veux découvrir la culture locale en Inde, que me conseillez-vous;travel_suggestion
+Quels sont les meilleurs sites historiques à Rome;travel_suggestion
+Je suis à la recherche d'un safari en Afrique, pouvez-vous m'aider;travel_suggestion
+Je voudrais faire un voyage en Asie, quelles destinations me recommandez-vous;travel_suggestion
+Je cherche des activités de plein air à faire à Barcelone;travel_suggestion
+Quels sont les meilleurs musées à visiter à New York;travel_suggestion
+Je suis passionné de plongée, où devrais-je aller;travel_suggestion
+Je souhaite visiter des châteaux en Allemagne, quelles sont vos suggestions;travel_suggestion
+Quelles sont les attractions touristiques populaires à Sydney;travel_suggestion
+Je veux faire une randonnée en montagne, où devrais-je aller;travel_suggestion
+Je suis intéressé par le tourisme gastronomique à Barcelone, quelles sont les bonnes adresses;travel_suggestion
+Quelles sont les meilleures stations de ski en Suisse;travel_suggestion
+Je prévois un voyage en Amérique du Sud, quels sont les lieux à voir absolument;travel_suggestion
+Je cherche des activités nautiques à faire en Grèce;travel_suggestion
+Quels sont les festivals populaires à Berlin;travel_suggestion
+Je suis intéressé par la visite de temples en Asie, quels sont les plus beaux;travel_suggestion
+Je prévois un voyage en Scandinavie, quels sont les endroits à ne pas manquer;travel_suggestion
+Je souhaite faire une croisière en Méditerranée, quelles sont les meilleures compagnies;travel_suggestion
+Quels sont les parcs nationaux à explorer aux États-Unis;travel_suggestion
+Puis-je emporter un sac à dos en cabine;carry_on
+Est-ce que je peux prendre mon ordinateur portable dans l'avion;carry_on
+Faut-il mettre les liquides dans un sac plastique transparent;carry_on
+Les ciseaux sont-ils autorisés en cabine;carry_on
+Quelle est la politique de Ryanair concernant les bagages à main;carry_on
+Est-ce que je peux emporter une bouteille d'eau dans l'avion;carry_on
+Quels objets ne sont pas autorisés en cabine;carry_on
+Est-ce que je peux voyager avec un instrument de musique en cabine;carry_on
+Quelle est la politique de EasyJet concernant les bagages à main;carry_on
+Quelles sont les règles pour les liquides en cabine;carry_on
+Est-ce que je peux emporter des aliments en cabine;carry_on
+Quelle est la taille maximale pour un bagage à main avec Air France;carry_on
+Est-ce que je peux emporter un parapluie en cabine;carry_on
+Quelle est la politique de British Airways pour les bagages à main;carry_on
+Est-ce que je peux emporter des produits de beauté en cabine;carry_on
+Quelle est la limite de poids pour les bagages à main;carry_on
+Est-ce que je peux emporter une trousse de toilette en cabine;carry_on
+Quelle est la politique de Lufthansa concernant les bagages à main;carry_on
+Qu'est-ce qui est autorisé en cabine avec Air Canada;carry_on
+Est-ce que je peux emporter une bouteille de vin en cabine;carry_on
+Pouvez-vous me trouver un hôtel abordable à Rome pour le week-end prochain ?;book_hotel
+Je cherche un hébergement proche de la plage à Barcelone;book_hotel
+Quels sont les hôtels les mieux notés à New York ?;book_hotel
+Est-ce que vous pouvez m'aider à trouver un hôtel avec une piscine à Las Vegas ?;book_hotel
+Je voudrais réserver une chambre avec vue sur la mer à Miami;book_hotel
+Pouvez-vous me trouver un hôtel avec un parking gratuit à Amsterdam ?;book_hotel
+Je cherche un hébergement dans le quartier historique de Prague;book_hotel
+Quels sont les hôtels les plus proches de l'aéroport de Tokyo ?;book_hotel
+Est-ce que vous pouvez m'aider à trouver un hôtel près du centre-ville de Sydney ?;book_hotel
+Je voudrais réserver une chambre pour une nuit à Londres;book_hotel
+Pouvez-vous me trouver un hôtel avec un restaurant sur place à Berlin ?;book_hotel
+Je cherche un hébergement avec une salle de sport à San Francisco;book_hotel
+Quels sont les hôtels les mieux notés à Dubaï ?;book_hotel
+Est-ce que vous pouvez m'aider à trouver un hôtel avec un spa à Bangkok ?;book_hotel
+Je voudrais réserver une chambre familiale à Madrid;book_hotel
+Pouvez-vous me trouver un hôtel avec un accès facile aux transports en commun à Barcelone ?;book_hotel
+Je cherche un hébergement près des attractions touristiques à Paris;book_hotel
+Quels sont les hôtels les plus proches du stade de Rio de Janeiro ?;book_hotel
+Est-ce que vous pouvez m'aider à trouver un hôtel avec un parking sécurisé à Rome ?;book_hotel
+Je voudrais réserver une chambre avec un balcon à Barcelone;book_hotel
+Je recherche un vol aller-retour de Paris à New York du 15 juillet au 22 juillet;book_flight
+Réservez un vol de Londres à Rome le 10 août et revenant le 20 août;book_flight
+J'ai besoin de réserver un vol aller-retour de Madrid à Barcelone du 5 septembre au 12 septembre;book_flight
+Trouvez-moi des vols aller-retour de Tokyo à Bangkok;book_flight
+Je voudrais savoir quels vols sont disponibles sur Sydney à Melbourne le 25 octobre pour moins de 500 $;book_flight
+Je recherche un vol de Los Angeles à Miami le 15 novembre;book_flight
+Réservez un vol aller simple de New York à Las Vegas le 5 décembre;book_flight
+J'ai besoin de réserver un vol aller-retour de Paris à London du 20 janvier au 27 janvier;book_flight
+Trouvez-moi des vols aller-retour de Rome à Barcelona;book_flight
+Je voudrais savoir quels vols sont disponibles sur Sydney à Melbourne le 10 février pour moins de 400 $;book_flight
+Je recherche un vol de Los Angeles à Miami le 25 mars;book_flight
+Réservez un vol aller simple de New York à Las Vegas le 5 avril;book_flight
+J'ai besoin de réserver un vol aller-retour de Paris à London du 20 mai au 27 mai;book_flight
+Je voudrais savoir quels vols sont disponibles sur Sydney à Melbourne le 10 juin pour moins de 500 $;book_flight
+Je recherche un vol de Los Angeles à Miami le 15 juillet;book_flight
+Réservez un vol aller simple de New York à Las Vegas le 5 août;book_flight
+J'ai besoin de réserver un vol aller-retour de Paris à London du 20 septembre au 27 septembre;book_flight
+Je voudrais savoir quels vols sont disponibles sur Sydney à Melbourne le 10 octobre pour moins de 400 $;book_flight
+Je recherche un vol de Los Angeles à Miami le 25 novembre;book_flight
+Où puis-je acheter une nouvelle paire de chaussures;out_of_scope
+Quelle est la meilleure recette pour faire des crêpes;out_of_scope
+Comment puis-je perdre du poids rapidement;out_of_scope
+Quel est le meilleur moyen de se débarrasser des fourmis dans ma maison;out_of_scope
+Quel est le dernier film de super-héros à sortir au cinéma;out_of_scope
+Quelle est l'adresse du restaurant italien le plus proche;out_of_scope
+Y a-t-il des réductions pour les étudiants dans ce magasin;out_of_scope
+Quel est le meilleur moment pour visiter Paris;out_of_scope
+Quel est le numéro du service client de cette entreprise;out_of_scope
+Où puis-je trouver un bon endroit pour faire de la randonnée;out_of_scope
+Comment puis-je réserver un billet de train en ligne;out_of_scope
+Quelle est la durée du vol pour se rendre à New York;out_of_scope
+Quel est le meilleur hôtel pour séjourner à Rome;out_of_scope
+Y a-t-il des attractions touristiques populaires dans cette ville;out_of_scope
+Quel est le meilleur moyen de se rendre à l'aéroport;out_of_scope
+Comment puis-je obtenir un visa pour ce pays;out_of_scope
+Quel est le meilleur moment pour voir les aurores boréales;out_of_scope
+Où puis-je acheter des souvenirs locaux;out_of_scope
+Quelle est la meilleure plage de cette région;out_of_scope
+Comment puis-je louer une voiture pour mes vacances;out_of_scope
+Quel est le meilleur endroit pour faire du shopping dans cette ville;out_of_scope
+Y a-t-il des festivals ou événements spéciaux en cours en ce moment;out_of_scope
+Quel est le meilleur restaurant de fruits de mer dans cette région;out_of_scope
+Comment puis-je obtenir un plan de la ville;out_of_scope
+Y a-t-il des alertes de voyage pour le Brésil;travel_alert
+Existe-t-il des alertes de voyage pour le Japon;travel_alert
+Suis-je en sécurité pour voyager en Inde;travel_alert
+Y a-t-il des alertes de voyage pour l'Egypte;travel_alert
+Quelles sont les alertes de voyage actuelles pour la France;travel_alert
+Est-ce qu'il y a des alertes de voyage pour la Grèce;travel_alert
+Est-il sûr de voyager en Thaïlande en ce moment;travel_alert
+Y a-t-il des alertes de voyage concernant l'Espagne;travel_alert
+Suis-je en sécurité pour voyager en Italie;travel_alert
+Y a-t-il des alertes de voyage pour le Mexique;travel_alert
+Existe-t-il des alertes de voyage pour le Royaume-Uni;travel_alert
+Suis-je en sécurité pour voyager en Australie;travel_alert
+Quelles sont les alertes de voyage actuelles pour les Etats-Unis;travel_alert
+Est-ce qu'il y a des alertes de voyage pour le Pérou;travel_alert
+Est-il sûr de voyager en Turquie en ce moment;travel_alert
+Y a-t-il des alertes de voyage concernant le Canada;travel_alert
+Suis-je en sécurité pour voyager en Nouvelle-Zélande;travel_alert
+Y a-t-il des alertes de voyage pour l'Afrique du Sud;travel_alert
+Existe-t-il des alertes de voyage pour le Portugal;travel_alert
+Suis-je en sécurité pour voyager en Suisse;travel_alert
+Y a-t-il des alertes de voyage concernant l'Argentine;travel_alert
+Est-ce qu'il y a des alertes de voyage pour la Chine;travel_alert
+Est-il sûr de voyager en Belgique en ce moment;travel_alert
+Y a-t-il des alertes de voyage pour la Suède;travel_alert
+Suis-je en sécurité pour voyager au Maroc;travel_alert
+Quelles sont les alertes de voyage actuelles pour l'Islande;travel_alert
+Est-ce qu'il y a des alertes de voyage pour la Colombie;travel_alert
+Est-il sûr de voyager en Irlande en ce moment;travel_alert
+Y a-t-il des alertes de voyage concernant la Norvège;travel_alert
+Suis-je en sécurité pour voyager au Vietnam;travel_alert
+Y a-t-il des alertes de voyage pour Cuba;travel_alert
+Existe-t-il des alertes de voyage pour la Jamaïque;travel_alert
+Suis-je en sécurité pour voyager en Allemagne;travel_alert
+Y a-t-il des alertes de voyage concernant la Russie;travel_alert
+Est-ce qu'il y a des alertes de voyage pour la Grèce;travel_alert
+Est-il sûr de voyager en Nouvelle-Zélande en ce moment;travel_alert
+Y a-t-il des alertes de voyage concernant l'Indonésie;travel_alert
+Suis-je en sécurité pour voyager en Egypte;travel_alert
+Quelles sont les alertes de voyage actuelles pour l'Espagne;travel_alert
+Est-ce qu'il y a des alertes de voyage pour le Vietnam;travel_alert
+Est-il sûr de voyager en Thaïlande en ce moment;travel_alert
+Y a-t-il des alertes de voyage concernant le Maroc;travel_alert
+Je voudrais réserver une chambre d'hôtel à Paris pour le week-end prochain;book_hotel
+Pouvez-vous me trouver un hôtel pas cher à New York pour une nuit ?;book_hotel
+Je suis à la recherche d'un bon hôtel à Barcelone pour une semaine;book_hotel
+J'ai besoin d'une chambre d'hôtel pour deux personnes à Londres du 10 au 15 décembre;book_hotel
+Pouvez-vous me recommander un hôtel près de la plage à Miami ?;book_hotel
+Je cherche un hôtel avec vue sur la Tour Eiffel à Paris;book_hotel
+Est-ce que vous pouvez m'aider à réserver un hôtel dans le centre-ville de Rome ?;book_hotel
+Je voudrais réserver une chambre d'hôtel pour une nuit à Las Vegas;book_hotel
+Pouvez-vous me trouver un hôtel avec piscine à Sydney ?;book_hotel
+Je cherche un hôtel de luxe à Dubai pour mon voyage d'affaires;book_hotel
+Est-il possible de réserver un hôtel avec un spa à Bali ?;book_hotel
+Je voudrais réserver une chambre d'hôtel pour deux personnes à Tokyo;book_hotel
+Pouvez-vous me recommander un hôtel familial à Orlando ?;book_hotel
+Je cherche un hôtel avec petit-déjeuner inclus à Berlin;book_hotel
+Est-ce que vous pouvez m'aider à trouver un hôtel près de la gare à Amsterdam ?;book_hotel
+Je voudrais réserver un hôtel avec parking à San Francisco;book_hotel
+Pouvez-vous me trouver un hôtel bien situé à Hong Kong ?;book_hotel
+Je suis à la recherche d'un hôtel pas cher à Bangkok pour une semaine;book_hotel
+J'ai besoin d'une chambre d'hôtel pour trois personnes à Barcelone du 5 au 10 janvier;book_hotel
+Pouvez-vous me recommander un hôtel avec vue sur la mer à Rio de Janeiro ?;book_hotel
+Je cherche un hôtel près du parc Disneyland à Orlando;book_hotel
+Est-ce que vous pouvez m'aider à réserver un hôtel avec salle de sport à Singapour ?;book_hotel
+Je voudrais réserver une chambre d'hôtel pour une nuit à Sydney;book_hotel
+Pouvez-vous me trouver un hôtel avec restaurant à Paris ?;book_hotel
+Je suis à la recherche d'un hôtel de charme à Florence pour une semaine;book_hotel
+J'ai besoin d'une chambre d'hôtel pour deux adultes et deux enfants à Los Angeles du 20 au 25 février;book_hotel
+Pouvez-vous me recommander un hôtel avec wifi gratuit à New York ?;book_hotel
+Je cherche un hôtel près de la plage à Miami pour mon voyage de noces;book_hotel
+Est-ce que vous pouvez m'aider à réserver un hôtel dans le quartier historique de Prague ?;book_hotel
+Je voudrais réserver une chambre d'hôtel pour une nuit à Rome;book_hotel
+Pouvez-vous me trouver un hôtel avec vue sur le lac à Genève ?;book_hotel
+Je suis à la recherche d'un hôtel romantique à Venise pour mon anniversaire;book_hotel
+J'ai besoin d'une chambre d'hôtel pour une personne à Londres du lundi au vendredi;book_hotel
+Pouvez-vous me recommander un hôtel avec spa à Marrakech ?;book_hotel
+Je cherche un hôtel près du parc d'attractions à Orlando;book_hotel
+Est-ce que vous pouvez m'aider à réserver un hôtel avec navette aéroport à Cancun ?;book_hotel
+Je voudrais réserver une chambre d'hôtel avec balcon à Barcelone;book_hotel
+Pouvez-vous me trouver un hôtel bien situé à Tokyo ?;book_hotel
+Je suis à la recherche d'un hôtel pas cher à Bangkok pour mon voyage en solo;book_hotel
+J'ai besoin d'une chambre d'hôtel pour deux personnes à Rio de Janeiro du 5 au 10 mars;book_hotel
+Pouvez-vous me recommander un hôtel avec vue sur la plage à Honolulu ?;book_hotel
+Je cherche un hôtel près du quartier des affaires à Singapour;book_hotel
+Est-ce que vous pouvez m'aider à réserver un hôtel avec piscine à Cancun ?;book_hotel
+Je voudrais réserver une chambre d'hôtel pour une nuit à Amsterdam;book_hotel
+Je voudrais réserver un vol de Paris à Madrid;book_flight
+Est-il possible de réserver un vol aller-retour de New York à Los Angeles ?;book_flight
+Je cherche des vols de Sydney à Tokyo pour le mois de juillet;book_flight
+Pouvez-vous trouver des vols directs de Londres à Rome ?;book_flight
+Je souhaite réserver un vol de Miami à Cancun pour la semaine prochaine;book_flight
+Je voudrais savoir s'il y a des vols disponibles de Melbourne à Bali;book_flight
+Réservez un vol aller simple de Berlin à Athènes;book_flight
+Je recherche des vols de Vancouver à Toronto pour le mois d'août;book_flight
+Est-ce que vous pouvez me trouver des vols bon marché de San Francisco à Las Vegas ?;book_flight
+Je voudrais réserver un vol de Londres à New York pour le mois de septembre;book_flight
+Pouvez-vous me trouver un vol aller-retour de Madrid à Barcelone ?;book_flight
+Je cherche des vols directs de Sydney à Bali;book_flight
+Je souhaite réserver un vol de Paris à Rome pour le mois prochain;book_flight
+Je voudrais savoir s'il y a des vols disponibles de Tokyo à Séoul;book_flight
+Réservez un vol aller simple de New York à Miami;book_flight
+Je recherche des vols de Toronto à Vancouver pour le mois de décembre;book_flight
+Est-ce que vous pouvez me trouver des vols bon marché de Los Angeles à Las Vegas ?;book_flight
+Je voudrais réserver un vol de Rome à Paris pour le mois de janvier;book_flight
+Pouvez-vous me trouver un vol aller-retour de Barcelone à Madrid ?;book_flight
+Je cherche des vols directs de Bali à Sydney;book_flight
+Je souhaite réserver un vol de Athènes à Berlin;book_flight
+Je voudrais savoir s'il y a des vols disponibles de Séoul à Tokyo;book_flight
+Réservez un vol aller simple de Miami à New York;book_flight
+Je recherche des vols de Vancouver à Toronto pour le mois de mars;book_flight
+Est-ce que vous pouvez me trouver des vols bon marché de Las Vegas à Los Angeles ?;book_flight
+Je voudrais réserver un vol de Paris à Madrid pour le mois d'avril;book_flight
+Pouvez-vous me trouver un vol aller-retour de Madrid à Barcelone pour le mois de mai ?;book_flight
+Je cherche des vols directs de Sydney à Bali;book_flight
+Je souhaite réserver un vol de Paris à Rome pour le mois de juin;book_flight
+Je voudrais savoir s'il y a des vols disponibles de Tokyo à Séoul pour le mois de juillet;book_flight
+Réservez un vol aller simple de New York à Miami pour le mois d'août;book_flight
+Je recherche des vols de Toronto à Vancouver pour le mois de septembre;book_flight
+Est-ce que vous pouvez me trouver des vols bon marché de Los Angeles à Las Vegas pour le mois d'octobre ?;book_flight
+Je voudrais réserver un vol de Rome à Paris pour le mois de novembre;book_flight
+Pouvez-vous me trouver un vol aller-retour de Barcelone à Madrid pour le mois de décembre ?;book_flight
+Je cherche des vols directs de Bali à Sydney pour le mois de janvier;book_flight
+Je souhaite réserver un vol de Athènes à Berlin pour le mois de février;book_flight
+Je voudrais savoir s'il y a des vols disponibles de Séoul à Tokyo pour le mois de mars;book_flight
+Réservez un vol aller simple de Miami à New York pour le mois d'avril;book_flight
+Je recherche des vols de Vancouver à Toronto pour le mois de mai;book_flight
+Est-ce que vous pouvez me trouver des vols bon marché de Las Vegas à Los Angeles pour le mois de juin ?;book_flight
+Je voudrais réserver un vol de Paris à Madrid pour le mois de juillet;book_flight
+Pouvez-vous me trouver un vol aller-retour de Madrid à Barcelone pour le mois d'août ?;book_flight
+Y a-t-il des alertes de voyage pour le Brésil;travel_alert
+Existe-t-il des alertes de voyage pour le Japon;travel_alert
+Suis-je en sécurité pour voyager en Inde;travel_alert
+Y a-t-il des alertes de voyage pour l'Egypte;travel_alert
+Quelles sont les alertes de voyage actuelles pour la France;travel_alert
+Est-ce qu'il y a des alertes de voyage pour la Grèce;travel_alert
+Est-il sûr de voyager en Thaïlande en ce moment;travel_alert
+Y a-t-il des alertes de voyage concernant l'Espagne;travel_alert
+Suis-je en sécurité pour voyager en Italie;travel_alert
+Y a-t-il des alertes de voyage pour le Mexique;travel_alert
+Existe-t-il des alertes de voyage pour le Royaume-Uni;travel_alert
+Suis-je en sécurité pour voyager en Australie;travel_alert
+Quelles sont les alertes de voyage actuelles pour les Etats-Unis;travel_alert
+Est-ce qu'il y a des alertes de voyage pour le Pérou;travel_alert
+Est-il sûr de voyager en Turquie en ce moment;travel_alert
+Y a-t-il des alertes de voyage concernant le Canada;travel_alert
+Suis-je en sécurité pour voyager en Nouvelle-Zélande;travel_alert
+Y a-t-il des alertes de voyage pour l'Afrique du Sud;travel_alert
+Existe-t-il des alertes de voyage pour le Portugal;travel_alert
+Suis-je en sécurité pour voyager en Suisse;travel_alert
+Y a-t-il des alertes de voyage concernant l'Argentine;travel_alert
+Est-ce qu'il y a des alertes de voyage pour la Chine;travel_alert
+Est-il sûr de voyager en Belgique en ce moment;travel_alert
+Y a-t-il des alertes de voyage pour la Suède;travel_alert
+Suis-je en sécurité pour voyager au Maroc;travel_alert
+Quelles sont les alertes de voyage actuelles pour l'Islande;travel_alert
+Est-ce qu'il y a des alertes de voyage pour la Colombie;travel_alert
+Est-il sûr de voyager en Irlande en ce moment;travel_alert
+Y a-t-il des alertes de voyage concernant la Norvège;travel_alert
+Suis-je en sécurité pour voyager au Vietnam;travel_alert
+Y a-t-il des alertes de voyage pour Cuba;travel_alert
+Existe-t-il des alertes de voyage pour la Jamaïque;travel_alert
+Suis-je en sécurité pour voyager en Allemagne;travel_alert
+Y a-t-il des alertes de voyage concernant la Russie;travel_alert
+Est-ce qu'il y a des alertes de voyage pour la Grèce;travel_alert
+Est-il sûr de voyager en Nouvelle-Zélande en ce moment;travel_alert
+Y a-t-il des alertes de voyage concernant l'Indonésie;travel_alert
+Suis-je en sécurité pour voyager en Egypte;travel_alert
+Quelles sont les alertes de voyage actuelles pour l'Espagne;travel_alert
+Est-ce qu'il y a des alertes de voyage pour le Vietnam;travel_alert
+Est-il sûr de voyager en Thaïlande en ce moment;travel_alert
+Y a-t-il des alertes de voyage concernant le Maroc;travel_alert
+Je voudrais réserver une chambre d'hôtel à Paris pour le week-end prochain;book_hotel
+Pouvez-vous me trouver un hôtel pas cher à New York pour une nuit ?;book_hotel
+Je suis à la recherche d'un bon hôtel à Barcelone pour une semaine;book_hotel
+J'ai besoin d'une chambre d'hôtel pour deux personnes à Londres du 10 au 15 décembre;book_hotel
+Pouvez-vous me recommander un hôtel près de la plage à Miami ?;book_hotel
+Je cherche un hôtel avec vue sur la Tour Eiffel à Paris;book_hotel
+Est-ce que vous pouvez m'aider à réserver un hôtel dans le centre-ville de Rome ?;book_hotel
+Je voudrais réserver une chambre d'hôtel pour une nuit à Las Vegas;book_hotel
+Pouvez-vous me trouver un hôtel avec piscine à Sydney ?;book_hotel
+Je cherche un hôtel de luxe à Dubai pour mon voyage d'affaires;book_hotel
+Est-il possible de réserver un hôtel avec un spa à Bali ?;book_hotel
+Je voudrais réserver une chambre d'hôtel pour deux personnes à Tokyo;book_hotel
+Pouvez-vous me recommander un hôtel familial à Orlando ?;book_hotel
+Je cherche un hôtel avec petit-déjeuner inclus à Berlin;book_hotel
+Est-ce que vous pouvez m'aider à trouver un hôtel près de la gare à Amsterdam ?;book_hotel
+Je voudrais réserver un hôtel avec parking à San Francisco;book_hotel
+Pouvez-vous me trouver un hôtel bien situé à Hong Kong ?;book_hotel
+Je suis à la recherche d'un hôtel pas cher à Bangkok pour une semaine;book_hotel
+J'ai besoin d'une chambre d'hôtel pour trois personnes à Barcelone du 5 au 10 janvier;book_hotel
+Pouvez-vous me recommander un hôtel avec vue sur la mer à Rio de Janeiro ?;book_hotel
+Je cherche un hôtel près du parc Disneyland à Orlando;book_hotel
+Est-ce que vous pouvez m'aider à réserver un hôtel avec salle de sport à Singapour ?;book_hotel
+Je voudrais réserver une chambre d'hôtel pour une nuit à Sydney;book_hotel
+Pouvez-vous me trouver un hôtel avec restaurant à Paris ?;book_hotel
+Je suis à la recherche d'un hôtel de charme à Florence pour une semaine;book_hotel
+J'ai besoin d'une chambre d'hôtel pour deux adultes et deux enfants à Los Angeles du 20 au 25 février;book_hotel
+Pouvez-vous me recommander un hôtel avec wifi gratuit à New York ?;book_hotel
+Je cherche un hôtel près de la plage à Miami pour mon voyage de noces;book_hotel
+Est-ce que vous pouvez m'aider à réserver un hôtel dans le quartier historique de Prague ?;book_hotel
+Je voudrais réserver une chambre d'hôtel pour une nuit à Rome;book_hotel
+Pouvez-vous me trouver un hôtel avec vue sur le lac à Genève ?;book_hotel
+Je suis à la recherche d'un hôtel romantique à Venise pour mon anniversaire;book_hotel
+J'ai besoin d'une chambre d'hôtel pour une personne à Londres du lundi au vendredi;book_hotel
+Pouvez-vous me recommander un hôtel avec spa à Marrakech ?;book_hotel
+Je cherche un hôtel près du parc d'attractions à Orlando;book_hotel
+Est-ce que vous pouvez m'aider à réserver un hôtel avec navette aéroport à Cancun ?;book_hotel
+Je voudrais réserver une chambre d'hôtel avec balcon à Barcelone;book_hotel
+Pouvez-vous me trouver un hôtel bien situé à Tokyo ?;book_hotel
+Je suis à la recherche d'un hôtel pas cher à Bangkok pour mon voyage en solo;book_hotel
+J'ai besoin d'une chambre d'hôtel pour deux personnes à Rio de Janeiro du 5 au 10 mars;book_hotel
+Pouvez-vous me recommander un hôtel avec vue sur la plage à Honolulu ?;book_hotel
+Je cherche un hôtel près du quartier des affaires à Singapour;book_hotel
+Est-ce que vous pouvez m'aider à réserver un hôtel avec piscine à Cancun ?;book_hotel
+Je voudrais réserver une chambre d'hôtel pour une nuit à Amsterdam;book_hotel
+Je voudrais réserver un vol de Paris à Madrid;book_flight
+Est-il possible de réserver un vol aller-retour de New York à Los Angeles ?;book_flight
+Je cherche des vols de Sydney à Tokyo pour le mois de juillet;book_flight
+Pouvez-vous trouver des vols directs de Londres à Rome ?;book_flight
+Je souhaite réserver un vol de Miami à Cancun pour la semaine prochaine;book_flight
+Je voudrais savoir s'il y a des vols disponibles de Melbourne à Bali;book_flight
+Réservez un vol aller simple de Berlin à Athènes;book_flight
+Je recherche des vols de Vancouver à Toronto pour le mois d'août;book_flight
+Est-ce que vous pouvez me trouver des vols bon marché de San Francisco à Las Vegas ?;book_flight
+Je voudrais réserver un vol de Londres à New York pour le mois de septembre;book_flight
+Pouvez-vous me trouver un vol aller-retour de Madrid à Barcelone ?;book_flight
+Je cherche des vols directs de Sydney à Bali;book_flight
+Je souhaite réserver un vol de Paris à Rome pour le mois prochain;book_flight
+Je voudrais savoir s'il y a des vols disponibles de Tokyo à Séoul;book_flight
+Réservez un vol aller simple de New York à Miami;book_flight
+Je recherche des vols de Toronto à Vancouver pour le mois de décembre;book_flight
+Est-ce que vous pouvez me trouver des vols bon marché de Los Angeles à Las Vegas ?;book_flight
+Je voudrais réserver un vol de Rome à Paris pour le mois de janvier;book_flight
+Pouvez-vous me trouver un vol aller-retour de Barcelone à Madrid ?;book_flight
+Je cherche des vols directs de Bali à Sydney;book_flight
+Je souhaite réserver un vol de Athènes à Berlin;book_flight
+Je voudrais savoir s'il y a des vols disponibles de Séoul à Tokyo;book_flight
+Réservez un vol aller simple de Miami à New York;book_flight
+Je recherche des vols de Vancouver à Toronto pour le mois de mars;book_flight
+Est-ce que vous pouvez me trouver des vols bon marché de Las Vegas à Los Angeles ?;book_flight
+Je voudrais réserver un vol de Paris à Madrid pour le mois d'avril;book_flight
+Pouvez-vous me trouver un vol aller-retour de Madrid à Barcelone pour le mois de mai ?;book_flight
+Je cherche des vols directs de Sydney à Bali;book_flight
+Je souhaite réserver un vol de Paris à Rome pour le mois de juin;book_flight
+Je voudrais savoir s'il y a des vols disponibles de Tokyo à Séoul pour le mois de juillet;book_flight
+Réservez un vol aller simple de New York à Miami pour le mois d'août;book_flight
+Je recherche des vols de Toronto à Vancouver pour le mois de septembre;book_flight
+Est-ce que vous pouvez me trouver des vols bon marché de Los Angeles à Las Vegas pour le mois d'octobre ?;book_flight
+Je voudrais réserver un vol de Rome à Paris pour le mois de novembre;book_flight
+Pouvez-vous me trouver un vol aller-retour de Barcelone à Madrid pour le mois de décembre ?;book_flight
+Je cherche des vols directs de Bali à Sydney pour le mois de janvier;book_flight
+Je souhaite réserver un vol de Athènes à Berlin pour le mois de février;book_flight
+Je voudrais savoir s'il y a des vols disponibles de Séoul à Tokyo pour le mois de mars;book_flight
+Réservez un vol aller simple de Miami à New York pour le mois d'avril;book_flight
+Je recherche des vols de Vancouver à Toronto pour le mois de mai;book_flight
+Est-ce que vous pouvez me trouver des vols bon marché de Las Vegas à Los Angeles pour le mois de juin ?;book_flight
+Je voudrais réserver un vol de Paris à Madrid pour le mois de juillet;book_flight
+Pouvez-vous me trouver un vol aller-retour de Madrid à Barcelone pour le mois d'août ?;book_flight

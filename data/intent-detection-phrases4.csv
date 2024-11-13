@@ -1,0 +1,91 @@
+text,label
+Pouvez-vous traduire cette phrase en italien : «Où se trouve la gare ?»,translate
+Je veux savoir comment on dit «Je voudrais une chambre pour deux personnes» en allemand,translate
+"Si je suis en Chine, comment puis-je demander où se trouve la station de métro ?",translate
+"Comment dit-on «Excusez-moi, où puis-je trouver un bon restaurant ?» en japonais ?",translate
+J'ai besoin de savoir comment dire «Je cherche la plage» en espagnol,translate
+Pouvez-vous me dire comment on dit «Je veux acheter un souvenir» en russe ?,translate
+"Comment dit-on «Je suis perdu, pouvez-vous m'aider à trouver mon chemin ?» en anglais ?",translate
+Veuillez traduire cette phrase en français : «Où est la station de bus la plus proche ?»,translate
+Je voudrais savoir comment dire «Combien coûte cette excursion ?» en allemand,translate
+"Si je vais au Brésil, comment puis-je demander «Où puis-je trouver un bureau de change ?» en portugais ?",translate
+Comment dit-on «Pourriez-vous recommander un bon restaurant ?» en italien ?,translate
+J'ai besoin de savoir comment dire «Je suis allergique aux fruits de mer» en espagnol,translate
+Pouvez-vous me dire comment on dit «Je voudrais un billet aller-retour» en français ?,translate
+Comment dit-on «Je cherche une pharmacie» en russe ?,translate
+Veuillez traduire cette phrase en anglais : «Où puis-je trouver un bureau de tourisme ?»,translate
+Je voudrais savoir comment dire «Combien coûte cette visite guidée ?» en allemand,translate
+"Si je vais en Corée du Sud, comment puis-je demander «Où est l'hôtel le plus proche ?» en coréen ?",translate
+Comment dit-on «Pourriez-vous me recommander un bon restaurant ?» en japonais ?,translate
+J'ai besoin de savoir comment dire «Je ne mange pas de viande» en espagnol,translate
+Pouvez-vous me dire comment on dit «Je voudrais une carte de la ville» en russe ?,translate
+À quelle heure est prévu l'embarquement pour mon vol,flight_status
+Quand est-ce que je vais décoller pour mon vol,flight_status
+Je voudrais connaître l'horaire de mon vol,flight_status
+À quelle heure est prévue l'arrivée de mon vol,flight_status
+Pouvez-vous me dire si mon vol est à l'heure,flight_status
+Quel est le statut de mon vol,flight_status
+Je souhaite vérifier l'état de mon vol,flight_status
+Quand est-ce que mon vol va partir,flight_status
+Quand vais-je pouvoir monter à bord de mon vol,flight_status
+Est-ce que mon vol est retardé,flight_status
+Quand est-ce que mon avion va atterrir,flight_status
+Quand est-ce que mon vol va atterrir,flight_status
+Quand est-ce que nous allons atterrir,flight_status
+Est-ce que mon vol est annulé,flight_status
+Quel est le numéro de vol pour mon vol,flight_status
+Quand vais-je arriver à l'aéroport,flight_status
+Quand vais-je partir pour mon vol,flight_status
+À quelle heure est prévu le décollage de mon vol,flight_status
+Quelle est la durée de mon vol,flight_status
+Quand vais-je quitter mon lieu de départ,flight_status
+Quand vais-je arriver à la destination,flight_status
+Quand mon vol sera-t-il prêt à décoller,flight_status
+Quelle est la compagnie aérienne de mon vol,flight_status
+Quelle est la porte d'embarquement pour mon vol,flight_status
+Quand est-ce que mon vol va-at-il décoller,flight_status
+Quand est-ce que nous allons monter à bord de l'avion,flight_status
+Quand est-ce que je vais arriver à mon lieu de destination,flight_status
+"Je prévois de voyager à New York, que me conseillez-vous de faire là-bas?",travel_suggestion
+Quelles sont les attractions touristiques populaires à Paris?,travel_suggestion
+"Je vais à Rome le mois prochain, quels sont les endroits que je ne devrais pas manquer?",travel_suggestion
+Y a-t-il des plages magnifiques à visiter à Hawaï?,travel_suggestion
+Pouvez-vous me donner des suggestions pour des randonnées en montagne en Suisse?,travel_suggestion
+"J'aimerais visiter des châteaux en Allemagne, quels sont les plus beaux châteaux à voir?",travel_suggestion
+Quelles sont les meilleures activités à faire à Barcelone?,travel_suggestion
+"Je vais à Londres pour la première fois, quelles sont les attractions incontournables?",travel_suggestion
+Existe-t-il des excursions en bateau intéressantes aux Maldives?,travel_suggestion
+Quels sont les meilleurs endroits pour faire de la plongée en Thaïlande?,travel_suggestion
+"Je cherche des idées de visites culturelles à Mexico, que recommandez-vous?",travel_suggestion
+Quels sont les parcs nationaux les plus beaux à visiter aux États-Unis?,travel_suggestion
+"Je veux découvrir la cuisine locale en Inde, quels sont les plats typiques à essayer?",travel_suggestion
+"Je vais à Sydney, avez-vous des recommandations pour des activités en plein air?",travel_suggestion
+Existe-t-il des festivals traditionnels intéressants au Japon?,travel_suggestion
+"Je suis intéressé par l'histoire de l'Égypte, quels sont les sites archéologiques à visiter?",travel_suggestion
+Y a-t-il des safaris passionnants à faire en Afrique du Sud?,travel_suggestion
+Quelles sont les meilleures destinations pour observer les aurores boréales?,travel_suggestion
+"Je vais à Bali, quels sont les endroits les plus pittoresques à voir?",travel_suggestion
+Existe-t-il des stations de ski populaires en Suisse?,travel_suggestion
+Puis-je emporter une petite valise à main avec moi dans l'avion,carry_on
+Quelle est la taille maximale autorisée pour le bagage à main,carry_on
+Est-ce que je peux prendre mon sac à dos en cabine,carry_on
+Quelles sont les dimensions acceptables pour le bagage à main,carry_on
+Est-ce que je peux emporter un sac à provisions en cabine,carry_on
+Dois-je mettre mon bagage à main dans le compartiment au-dessus de moi,carry_on
+Est-ce que je peux prendre mon sac à main avec moi dans l'avion,carry_on
+Quelle est la politique concernant les bagages à main pour les vols internationaux,carry_on
+Est-ce que je peux transporter mon ordinateur portable dans le bagage à main,carry_on
+Y a-t-il des restrictions pour les liquides dans le bagage à main,carry_on
+Est-ce que je peux emporter mon trépied en cabine,carry_on
+Combien de sacs à main puis-je prendre dans l'avion,carry_on
+Quelle est la limite de poids pour le bagage à main,carry_on
+Est-ce que je peux emporter des médicaments dans le bagage à main,carry_on
+Est-ce que je peux prendre mon sac de sport avec moi en cabine,carry_on
+Y a-t-il une limite de taille pour le bagage à main,carry_on
+Dois-je payer un supplément pour mon bagage à main,carry_on
+Quelles sont les règles pour les objets tranchants dans le bagage à main,carry_on
+Est-ce que je peux emporter ma guitare en cabine,carry_on
+Combien de bagages à main puis-je prendre sur un vol national,carry_on
+Quelle est la compagnie aérienne avec la politique la plus flexible pour les bagages à main,carry_on
+Est-ce que je peux emporter une poussette en cabine,carry_on
+Combien de temps avant le vol dois-je arriver pour enregistrer mon bagage à main,carry_on

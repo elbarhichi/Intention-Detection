@@ -1,0 +1,2 @@
+,Overall Accuracy,F1 Score (Macro),Precision for lost_luggage,Specificity for lost_luggage,F2 Score for lost_luggage
+GPTModel,0.9492063492063492,0.9487342209463725,1.0,1.0,0.9460551107758514
