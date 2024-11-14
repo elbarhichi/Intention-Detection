@@ -160,7 +160,9 @@ cython_debug/
 #.idea/
 
 
-models/distilbert-base-uncased-mnli
-models/bart-large-mnli
-models/mDeBERTa-v3-base-mnli-xnli
-models/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7
+models/zeroshotclassification/distilbert-base-uncased-mnli
+models/zeroshotclassification/bart-large-mnli
+models/zeroshotclassification/mDeBERTa-v3-base-mnli-xnli
+models/zeroshotclassification/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7
+
+models/camembert-base

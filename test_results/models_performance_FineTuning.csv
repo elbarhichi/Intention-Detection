@@ -1,0 +1,2 @@
+,Overall Accuracy,F1 Score (Macro),Precision for lost_luggage,Specificity for lost_luggage,F2 Score for lost_luggage,final
+FineTunedModel,0.9619047619047619,0.9588712176277274,1.0,1.0,0.9585610059603464,0.9794356088138637
