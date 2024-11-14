@@ -78,17 +78,19 @@ Pour chaque message utilisateur, analyse l'intention et réponds uniquement par 
             
             # Extraire le label de la réponse
             predicted_label = response.choices[0].message.content.strip()
+
             list_mots = predicted_label.split(' ')
             if len(list_mots) > 1:
                 # extraire le label dans le text si le label est dans le text
                 labels = ['translate', 'travel_alert', 'flight_status', 'lost_luggage', 'travel_suggestion', 'carry_on', 'book_hotel', 'book_flight']
-                
+            
                 for label in labels:
                     if label in list_mots:
-                        predicted_label = predicted_label
+                        predicted_label = label
                         break
                     else:
                         predicted_label = 'out_of_scope'
+
             y_pred.append(predicted_label)
 
         return y_pred
