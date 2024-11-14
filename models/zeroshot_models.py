@@ -4,7 +4,7 @@ class BartModel_withDescription:
     def __init__(self):
         
         # Charger le modèl
-        model_directory = "models/bart-large-mnli"
+        model_directory = "models/zeroshotclassification/bart-large-mnli"
         model = AutoModelForSequenceClassification.from_pretrained(model_directory)
         tokenizer = AutoTokenizer.from_pretrained(model_directory)
     
@@ -52,7 +52,7 @@ class BartModel_withParaphrasing:
     def __init__(self):
         
         # Charger le modèl
-        model_directory = "models/bart-large-mnli"
+        model_directory = "models/zeroshotclassification/bart-large-mnli"
         model = AutoModelForSequenceClassification.from_pretrained(model_directory)
         tokenizer = AutoTokenizer.from_pretrained(model_directory)
     
@@ -100,7 +100,7 @@ class DistilBertModel:
     def __init__(self):
         
         # Charger le modèl
-        model_directory = "models/distilbert-base-uncased-mnli"
+        model_directory = "models/zeroshotclassification/distilbert-base-uncased-mnli"
         model = AutoModelForSequenceClassification.from_pretrained(model_directory)
         tokenizer = AutoTokenizer.from_pretrained(model_directory)
     
@@ -147,7 +147,7 @@ class DistilBertModel_withParaphrasing:
     def __init__(self):
         
         # Charger le modèl
-        model_directory = "models/distilbert-base-uncased-mnli"
+        model_directory = "models/zeroshotclassification/distilbert-base-uncased-mnli"
         model = AutoModelForSequenceClassification.from_pretrained(model_directory)
         tokenizer = AutoTokenizer.from_pretrained(model_directory)
     
@@ -194,7 +194,7 @@ class MDeBertaModel:
     def __init__(self):
         
         # Charger le modèl
-        model_directory = "models/mDeBERTa-v3-base-mnli-xnli"
+        model_directory = "models/zeroshotclassification/mDeBERTa-v3-base-mnli-xnli"
         model = AutoModelForSequenceClassification.from_pretrained(model_directory)
         tokenizer = AutoTokenizer.from_pretrained(model_directory)
     
@@ -241,7 +241,7 @@ class MDeBertaModel_withParaphrasing:
     def __init__(self):
         
         # Charger le modèl
-        model_directory = "models/mDeBERTa-v3-base-mnli-xnli"
+        model_directory = "models/zeroshotclassification/mDeBERTa-v3-base-mnli-xnli"
         model = AutoModelForSequenceClassification.from_pretrained(model_directory)
         tokenizer = AutoTokenizer.from_pretrained(model_directory)
     
@@ -289,7 +289,7 @@ class MDeBertaModelMulti:
     def __init__(self):
         
         # Charger le modèl
-        model_directory = "models/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7"
+        model_directory = "models/zeroshotclassification/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7"
         model = AutoModelForSequenceClassification.from_pretrained(model_directory)
         tokenizer = AutoTokenizer.from_pretrained(model_directory)
     
@@ -337,7 +337,7 @@ class MDeBertaModelMulti_withParaphrasing:
     def __init__(self):
         
         # Charger le modèl
-        model_directory = "models/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7"
+        model_directory = "models/zeroshotclassification/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7"
         model = AutoModelForSequenceClassification.from_pretrained(model_directory)
         tokenizer = AutoTokenizer.from_pretrained(model_directory)
     
