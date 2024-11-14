@@ -25,10 +25,11 @@ Le modèle est conçu pour reconnaître les intentions suivantes :
 
 Le projet a exploré plusieurs approches pour détecter l'intention, notamment :
 
-1. **Zero-Shot Classification** : Utilisation de modèles déjà entraînés pour une classification sans apprentissage spécifique.
-2. **TF-IDF + Classificateurs** : Utilisation de TF-IDF et de modèles traditionnels de classification.
-3. **Embeddings + Classificateurs** : Génération d'embeddings de phrases pour une meilleure représentation contextuelle.
-4. **Fine-Tuning** : Ajustement fin d’un modèle pré-entraîné (CamemBERT) pour notre tâche spécifique.
+1. **LLM** : Utilisation des LLM préentrainés avec du prompt engineering
+2. **Zero-Shot Classification** : Utilisation de modèles déjà entraînés pour une classification sans apprentissage spécifique.
+3. **TF-IDF + Classificateurs** : Utilisation de TF-IDF et de modèles traditionnels de classification.
+4. **Embeddings + Classificateurs** : Génération d'embeddings de phrases pour une meilleure représentation contextuelle.
+5. **Fine-Tuning** : Ajustement fin d’un modèle pré-entraîné (CamemBERT) pour notre tâche spécifique.
 
 ## Installation
 
