@@ -168,3 +168,4 @@ models/zeroshotclassification/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7
 models/camembert-base
 models/results
 models/fine_tuned_camembert_model
+models/embeddings/embedding_svc_model.pkl
